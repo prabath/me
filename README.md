@@ -1,4 +1,4 @@
-## Publications (Books)
+## Boooks (Author)
 
 * Microservices Security in Action (2019, Manning)
 * Adavanced API Security 2nd Edition (2019, Apress)
