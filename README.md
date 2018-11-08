@@ -14,6 +14,8 @@
 * RSA Conference (2018, San Francisco)
 * Cloud Identity Summit (2017, Chicago | 2016, New Orleans)
 * European Identity Conference (2015, Munich | 2014, Munich | 2012, Munich)
+* Cloud Security Alliance (2018, Seattle)
+* Consumer Identity World (2018, Seattle)
 * Internet Identity Workshop (2017, Mountain View | 2016, Mountain View)
 * Block Workd (2018, San Jose)
 * API World (2018, San Jose | 2017, San Jose)
