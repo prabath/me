@@ -18,7 +18,7 @@
 
 * http://vlog.facilelogin.com
 
-## Boooks
+## Boooks (Author)
 
 * Microservices Security in Action (2019, Manning)
 * Adavanced API Security 2nd Edition (2019, Apress)
@@ -28,7 +28,7 @@
 * Maven Essentials (2015, PACKT)
 * Enterprise Integration with WSO2 ESB (2013, PACKT)
 
-## Conferences
+## Conferences (Speaker)
 
 * Identiverse (2018, Boston)
 * RSA Conference (2018, San Francisco)
@@ -52,7 +52,7 @@
 * Apache Roadshow Asia (2009, Colombo)
 * Google Summer of Code Mentor Summit (2016, Mountain View)
 
-## Workshops 
+## Workshops (Speaker)
 
 * Securing Microservices (Oct 2018, Orlando) : https://wso2.com/events/workshops/2018-october-orlando-securing-microservices/
 * Identity Federation and Strong Authentication with WSO2 Identity Server (July 2018, Virginia) : https://wso2.com/events/workshops/2018-july-virginia-identity-federation-and-strong-authentication-with-wso2-identity-server/
@@ -92,7 +92,7 @@
 * WSO2 SOA Workshop (Nov 2009, Santa Clara) : http://lanyrd.com/2009/wso2-soa-workshop-2/
 * WSO2 SOA Workshop (Sept 2009, Colombo) : http://lanyrd.com/2009/wso2-soa-workshop/
 
-## Webinars 
+## Webinars (Speaker)
 
 * How Blockchain Facilitates Self-Sovereign Identity (April, 2018) : https://www.brighttalk.com/webcast/16693/310903/how-blockchain-facilitates-self-sovereign-identity
 * Identity and Access Management in the Era of Digital Transformation (March, 2017) : https://wso2.com/library/webinars/2017/03/identity-and-access-management-in-the-era-of-digital-transformation/
@@ -119,7 +119,7 @@
 * Identity as a Service (October 2008) : http://www.slideshare.net/prabathsiriwardena/identity-as-a-service-presentation
 * Understanding OpenID (June 2008) : http://www.slideshare.net/prabathsiriwardena/understanding-openid
 
-## Blogs
+## Blogs (Blogger)
 
 * What Went Wrong? Facebook is in Crisis Again! : https://medium.facilelogin.com/what-went-wrong-d09b0dc24de4
 * Build Your Own Blockchain : https://medium.facilelogin.com/build-your-own-blockchain-b8eaeea2f891
