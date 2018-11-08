@@ -119,4 +119,11 @@
 * Identity as a Service (October 2008) : http://www.slideshare.net/prabathsiriwardena/identity-as-a-service-presentation
 * Understanding OpenID (June 2008) : http://www.slideshare.net/prabathsiriwardena/understanding-openid
 
+## Blogs
+
+* What Went Wrong? Facebook is in Crisis Again! : https://medium.facilelogin.com/what-went-wrong-d09b0dc24de4
+* Build Your Own Blockchain : https://medium.facilelogin.com/build-your-own-blockchain-b8eaeea2f891
+* 51% Attack! : https://medium.facilelogin.com/51-attack-a72d26786b23
+* The Mystery Behind Block Time : https://medium.facilelogin.com/the-mystery-behind-block-time-63351e35603a
+* Bought It! Read It! Love It! Satya Nadella’s New Book, Hit Refresh : https://medium.facilelogin.com/bought-it-read-it-love-it-b9083e54f9a2
 
