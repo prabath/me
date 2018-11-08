@@ -94,6 +94,10 @@
 ## Webinars 
 
 * How Blockchain Facilitates Self-Sovereign Identity (April, 2018) : https://www.brighttalk.com/webcast/16693/310903/how-blockchain-facilitates-self-sovereign-identity
+* Identity and Access Management in the Era of Digital Transformation (March, 2017) : https://wso2.com/library/webinars/2017/03/identity-and-access-management-in-the-era-of-digital-transformation/
+* Securing Access to SaaS Apps with GSMA Mobile Connect (Nov, 2016) : https://wso2.com/library/webinars/2016/11/securing-access-to-saas-apps-with-gsma-mobile-connect/
+* WSO2 Security Platform: Vision and Roadmap (May 2016) : https://wso2.com/library/webinars/2016/05/wso2-security-platform-vision-and-roadmap/
+* Connected Identity: Benefits, Risks & Challenges (May 2015) : https://wso2.com/library/webinars/2015/05/connected-identity-benefits-risks-and-challenges/
 * OpenID to OpenID Connect Migration (Dec 2014) : http://wso2.com/library/webinars/2014/12/openid-to-openid-connect-migration/
 * Security in Cloud (Nov 2014) : http://wso2.com/library/webinars/2014/11/security-in-the-cloud/
 * The Evolution of Enterprise Identity (July 2014) : http://wso2.com/library/webinars/2014/07/the-evolution-of-enterprise-identity/
