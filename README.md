@@ -15,6 +15,7 @@
 * Cloud Identity Summit (2017, Chicago | 2016, New Orleans)
 * European Identity Conference (2015, Munich | 2014, Munich | 2012, Munich)
 * Cloud Security Alliance (2018, Seattle)
+* LASCON (2018, Austin | 2016 Austin)
 * Consumer Identity World (2018, Seattle)
 * Internet Identity Workshop (2017, Mountain View | 2016, Mountain View)
 * Global Software Architecture Conference (2017, Santa Clara)
