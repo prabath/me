@@ -17,6 +17,7 @@
 * Cloud Security Alliance (2018, Seattle)
 * Consumer Identity World (2018, Seattle)
 * Internet Identity Workshop (2017, Mountain View | 2016, Mountain View)
+* Global Software Architecture Conference (2017, Santa Clara)
 * Block Workd (2018, San Jose)
 * API World (2018, San Jose | 2017, San Jose)
 * WSO2Con (2018, London | 2018 San Francisco | 2017, London | 2017, San Francisco | 2014 San Francisco | 2014, Barcelona | 2014, Colombo| 2013, London | 2013 San Francisco | 2012, Colombo | 2011, Colombo)
