@@ -157,3 +157,9 @@
 * Borderless Identity ~ Managing Identity in a Complex World : https://medium.facilelogin.com/borderless-identity-managing-identity-in-a-complex-world-998c68f351de
 * Securing the Insecure : https://medium.facilelogin.com/securing-the-insecure-e96310ccc386
 
+## Meetups (Founder)
+
+* Silicon Valley IAM Meetup : https://www.meetup.com/Silicon-Valley-IAM-User-Group/
+* JAVA Colombo : https://www.meetup.com/java-colombo/
+
+
