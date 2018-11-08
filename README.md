@@ -1,4 +1,4 @@
-## Boooks (Author)
+## Boooks
 
 * Microservices Security in Action (2019, Manning)
 * Adavanced API Security 2nd Edition (2019, Apress)
@@ -8,7 +8,7 @@
 * Maven Essentials (2015, PACKT)
 * Enterprise Integration with WSO2 ESB (2013, PACKT)
 
-## Conferences (Speaker)
+## Conferences
 
 * Identiverse (2018, Boston)
 * RSA Conference (2018, San Francisco)
@@ -31,7 +31,7 @@
 * Apache Roadshow Asia (2009, Colombo)
 * Google Summer of Code Mentor Summit (2016, Mountain View)
 
-## Workshops (Speaker)
+## Workshops 
 * Federated Identity & Access Management (May 2014, Munich) : http://wso2.com/events/workshops/2014-may-munich-federated-identity-and-access-management-workshop/
 * WSO2 Integration Platform Discovery (Oct 2013, New Zealand) : http://wso2.com/events/workshops/2013-october-auckland-wso2-integration-platform-discovery-workshop/
 * WSO2 Integration Platform Discovery (Nov 2012, Netherlands) : http://wso2.com/events/workshops/2012-november-the-hague-wso2-integration-platform-discovery-workshop/
@@ -45,7 +45,7 @@
 * WSO2 SOA Workshop (Nov 2009, Santa Clara) : http://lanyrd.com/2009/wso2-soa-workshop-2/
 * WSO2 SOA Workshop (Sept 2009, Colombo) : http://lanyrd.com/2009/wso2-soa-workshop/
 
-## Webinars (Speaker)
+## Webinars 
 * Access Control Patterns and Practices with WSO2 Middleware Platform (Nov 2013) : http://wso2.com/library/webinars/2013/11/access-control-patterns-and-practices-with-wso2-middleware-platform/
 * Introducing the WSO2 Platform - Leading you to a Connected Business (Oct 2013) : http://wso2.com/library/webinars/2013/10/introducing-the-wso2-platform-leading-you-to-a-connected-business/
 * Identity in the Cloud (March 2010) : http://wso2.com/library/webinars/webinar-identity-cloud/
