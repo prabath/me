@@ -53,6 +53,16 @@
 
 ## Workshops 
 
+* Securing Microservices (Oct 2018, Orlando) : https://wso2.com/events/workshops/2018-october-orlando-securing-microservices/
+* Identity Federation and Strong Authentication with WSO2 Identity Server (July 2018, Virginia) : https://wso2.com/events/workshops/2018-july-virginia-identity-federation-and-strong-authentication-with-wso2-identity-server/
+* Building a customer-centric enterprise with CIAM (June 2018, New York) : https://wso2.com/events/workshops/2018-june-newyork-building-a-customer-centric-enterprise-with-ciam/
+* Building a customer-centric enterprise with CIAM (June 2018, Mountain View) : https://wso2.com/events/workshops/2018-june-mountainview-building-a-customer-centric-enterprise-with-ciam/
+* API Security Best Practices & Guidelines (June 2018, Singapore) : https://wso2.com/events/workshops/2018-june-singapore-api-security-best-practices-guidelines/
+* API Security Best Practices & Guidelines (May 2018, Chicago) : https://wso2.com/events/workshops/2018-may-api-security-best-practices-and-guidelines/ 
+* API Security Best Practices & Guidelines (May 2018, Orlando) : https://wso2.com/events/workshops/2018-may-orlando-api-security-best-practices-and-guidelines/
+* Securing Microservices (May 2018, Columbus) : https://wso2.com/events/workshops/2018-may-columbus-securing-microservices/
+* The Role of Privacy in Your CIAM Strategy (May 2018, Toronto) : https://wso2.com/events/workshops/the-role-of-privacy-in-your-ciam-strategy/
+* Building a Customer-centric Enterprise with CIAM (April 2018, Montreal) : https://wso2.com/events/workshops/2018-april-montreal-building-a-customer-centric-enterprise-with-ciam/
 * Identity Management for Identity Architects (Jan 2018, Colombo) : https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/
 * Identity Management for Web App Developers  (Jan 2018, Colombo) : https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/
 * OAuth 2.0 for Web and Native (Mobile) App Developers (Jan 2018, Colombo) : https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/
