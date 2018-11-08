@@ -53,6 +53,21 @@
 
 ## Workshops 
 
+* Identity Management for Identity Architects (Jan 2018, Colombo) : https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/
+* Identity Management for Web App Developers  (Jan 2018, Colombo) : https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/
+* OAuth 2.0 for Web and Native (Mobile) App Developers (Jan 2018, Colombo) : https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/
+* Identity and Access Management in the Era of Digital Transformation (July 2017, Colombo): https://wso2.com/events/workshops/2017-july-colombo-Identity-and-Access-Management-in-the-Era-of-Digital-Transformation/
+* Identity and Access Management in the Era of Digital Transformation (June 2017, Chicago): https://wso2.com/events/workshops/2017-june-chicago-Identity-and-Access-Management-in-the-Era-of-Digital-Transformation/ 
+* Identity and Access Management in the Era of Digital Transformation (June 2017, New York): https://wso2.com/events/workshops/2017-june-new-york-Identity-and-Access-Management-in-the-Era-of-Digital-Transformation/
+* Solution Patterns with the WSO2 Identity Server (March 2017, Vancouver) : https://wso2.com/events/workshops/2017-march-vancouver-solution-patterns-with-the-wso2-identity-server/
+* Solution Patterns with the WSO2 Identity Server (Feb 2017, Toronto) : https://wso2.com/events/workshops/2017-february-toronto-solution-patterns-with-the-wso2-identity-server/
+* API Security Best Practices & Guidelines (Dec 2016, Mounatin View) : https://wso2.com/events/workshops/2016-december-mountainview-api-security-best-practices-and-guidelines/
+* Solution Patterns with the WSO2 Identity Server (Sept 2016, Mounatin View) : https://wso2.com/events/workshops/solution-patterns-with-the-wso2-identity-server/
+* API, Integration, and SOA Convergence (April, 2015, Sao Paulo) : https://wso2.com/events/workshops/2015-april-sao-paulo-api-integration-and-soa-convergence-workshop/
+* API, Integration, and SOA Convergence (March, 2015, Brasilia) : https://wso2.com/events/workshops/2015-march-brasilia-api-integration-and-soa-convergence-workshop/
+* API, Integration, and SOA Convergence (March, 2015, Rio) : https://wso2.com/events/workshops/2015-march-rio-api-integration-and-soa-convergence-workshop/
+* API, Integration, and SOA Convergence (Feb, 2015, Mountain View) : https://wso2.com/events/workshops/2015-february-mountain-view-enterprise-identity-and-api-management-workshop/
+* API, Integration, and SOA Convergence (Feb, 2015, Los Angeles) : https://wso2.com/events/workshops/2015-february-los-angeles-api-integration-and-soa-convergence-workshop/
 * Federated Identity & Access Management (May 2014, Munich) : http://wso2.com/events/workshops/2014-may-munich-federated-identity-and-access-management-workshop/
 * WSO2 Integration Platform Discovery (Oct 2013, New Zealand) : http://wso2.com/events/workshops/2013-october-auckland-wso2-integration-platform-discovery-workshop/
 * WSO2 Integration Platform Discovery (Nov 2012, Netherlands) : http://wso2.com/events/workshops/2012-november-the-hague-wso2-integration-platform-discovery-workshop/
