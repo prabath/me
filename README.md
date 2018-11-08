@@ -32,10 +32,10 @@
 * WSO2 Integration Platform Discovery (Nov 2012, Netherlands) : http://wso2.com/events/workshops/2012-november-the-hague-wso2-integration-platform-discovery-workshop/
 * WSO2 Integration Platform Discovery (Sept 2012, Dubai) : http://wso2.com/events/workshops/2012-september-duabi-wso2-integration-platform-discovery-workshop/
 * Carbon and Stratos: Understanding Cloud-enabled Modular Middleware (Nov 2011, Canada) : http://wso2.com/events/workshops/2011-november-vancouver-carbon-stratos-workshop/
-* Security in the Cloud - Oct 2011 - New York : http://lanyrd.com/2011/wso2-security-in-the-cloud-workshop-2/
-* Security in the Cloud - Aug 2011 - Palo Alto : http://wso2.com/events/workshops/2011-august-palo-alto-security-in-the-cloud-workshop/
-* SOA Security and Identity - March 2011 - Dallas : http://wso2.com/events/workshops/2011-march-usa-security-workshop/
-* SOA Security and Identity - March 2011 - New York : http://wso2.com/events/workshops/2011-march-usa-security-workshop/
-* SOA Security and Identity - March 2011 - Washington : http://wso2.com/events/workshops/2011-march-usa-security-workshop/
-* WSO2 SOA Workshop - Nov 2009 - Santa Clara : http://lanyrd.com/2009/wso2-soa-workshop-2/
-* WSO2 SOA Workshop - Sept 2009 - Colombo : http://lanyrd.com/2009/wso2-soa-workshop/
+* Security in the Cloud (Oct 2011, New York) : http://lanyrd.com/2011/wso2-security-in-the-cloud-workshop-2/
+* Security in the Cloud (Aug 2011, Palo Alto) : http://wso2.com/events/workshops/2011-august-palo-alto-security-in-the-cloud-workshop/
+* SOA Security and Identity (March 2011, Dallas) : http://wso2.com/events/workshops/2011-march-usa-security-workshop/
+* SOA Security and Identity (March 2011, New York) : http://wso2.com/events/workshops/2011-march-usa-security-workshop/
+* SOA Security and Identity (March 2011, Washington) : http://wso2.com/events/workshops/2011-march-usa-security-workshop/
+* WSO2 SOA Workshop (Nov 2009, Santa Clara) : http://lanyrd.com/2009/wso2-soa-workshop-2/
+* WSO2 SOA Workshop (Sept 2009, Colombo) : http://lanyrd.com/2009/wso2-soa-workshop/
