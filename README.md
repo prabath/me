@@ -6,6 +6,14 @@
 
 * https://twitter.com/prabath
 
+## Blog
+
+* http://blog.facilelogin.com
+
+## vLog
+
+* http://vlog.facilelogin.com
+
 ## Boooks
 
 * Microservices Security in Action (2019, Manning)
