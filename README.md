@@ -14,6 +14,7 @@
 * RSA Conference (2018, San Francisco)
 * Cloud Identity Summit (2017, Chicago|2016, New Orleans)
 * European Identity Conference (2015, Munich|2014, Munich|2012, Munich)
+* Internet Identity Workshop (2017, Mountain View | 2016, Mountain View)
 * Block Workd (2018, San Jose)
 * API World (2018, San Jose|2017, San Jose)
 * WSO2Con(2018, London|2018 San Francisco|2017, London| 2017, San Francisco|2014 San Francisco|2014, Barcelona|2014, Colombo|2013, London|2013 San Francisco|2012, Colombo|2011, Colombo)
@@ -23,3 +24,4 @@
 * IdentityNext (2012, Netherlands)
 * OSCON (2009, San Jose)
 * Apache Roadshow Asia (2009, Colombo)
+* Google Summer of Code Mentor Summit (2016, Mountain View)
