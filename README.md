@@ -39,3 +39,25 @@
 * SOA Security and Identity (March 2011, Washington) : http://wso2.com/events/workshops/2011-march-usa-security-workshop/
 * WSO2 SOA Workshop (Nov 2009, Santa Clara) : http://lanyrd.com/2009/wso2-soa-workshop-2/
 * WSO2 SOA Workshop (Sept 2009, Colombo) : http://lanyrd.com/2009/wso2-soa-workshop/
+
+## Webinars (Speaker)
+* Access Control Patterns and Practices with WSO2 Middleware Platform (Nov 2013) : http://wso2.com/library/webinars/2013/11/access-control-patterns-and-practices-with-wso2-middleware-platform/
+* Introducing the WSO2 Platform - Leading you to a Connected Business (Oct 2013) : http://wso2.com/library/webinars/2013/10/introducing-the-wso2-platform-leading-you-to-a-connected-business/
+* Identity in the Cloud (March 2010) : http://wso2.com/library/webinars/webinar-identity-cloud/
+* Securing RESTful Services (Jan 2011) : http://wso2.com/library/webinars/2011/01/securing-restful-services/
+* Fine Grained Authorisation Policies Making Your Head Spin?? XACML to the Rescue!! (April 2011) : http://wso2.com/library/webinars/2011/04/finely-granuled-authorisation-policies-making-your-head-spin-xacml-rescue/
+* Introducing the WSO2 Security & Identity Gateway Solution (June 2011) : http://wso2.com/library/webinars/2011/06/introducing-wso2-security-amp-identity-gateway-solution/
+* Security in the Cloud (Oct 2011) : http://wso2.com/library/webinars/2011/10/security-cloud-webinar/
+* Securing your Cloud Application using StratosLive (Nov 2011) : http://wso2.com/library/webinars/2011/10/securing-your-cloud-application-using-stratoslive/
+* OAuth 2.0 : The Path to Heaven from Hell? (Aug 2012) : http://wso2.com/library/webinars/2012/08/oauth-2-the-path-to-heaven-from-hell/
+* Securing APIs (Nov 2012) : http://wso2.com/library/webinars/2012/11/securing-apis/
+* WSO2 Identity Server 2.0 Introduction (June 2009) : http://www.slideshare.net/prabathsiriwardena/wso2-identity-server-20-introduction
+* Identity as a Service (October 2008) : http://www.slideshare.net/prabathsiriwardena/identity-as-a-service-presentation
+* Understanding OpenID (June 2008) : http://www.slideshare.net/prabathsiriwardena/understanding-openid
+* Enterprise Integration with WSO2 ESB  (February 2013) : http://wso2.com/library/webinars/2014/02/enterprise-integration-with-wso2-esb/
+* Patterns and Practices in Mobile SSO (March 2014) : http://wso2.com/library/webinars/2014/03/patterns-and-practices-in-mobile-sso/ 
+* Bring Your Own IDentity (BYOID) with WSO2 Identity Server (April 2014) : http://wso2.com/library/webinars/2014/04/bring-your-own-identity-with-wso2-identity-server/
+* The Evolution of Enterprise Identity (July 2014) : http://wso2.com/library/webinars/2014/07/the-evolution-of-enterprise-identity/
+* Security in Cloud (Nov 2014) : http://wso2.com/library/webinars/2014/11/security-in-the-cloud/
+* OpenID to OpenID Connect Migration (Dec 2014) : http://wso2.com/library/webinars/2014/12/openid-to-openid-connect-migration/
+
