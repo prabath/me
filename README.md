@@ -52,6 +52,7 @@
 * Google Summer of Code Mentor Summit (2016, Mountain View)
 
 ## Workshops 
+
 * Federated Identity & Access Management (May 2014, Munich) : http://wso2.com/events/workshops/2014-may-munich-federated-identity-and-access-management-workshop/
 * WSO2 Integration Platform Discovery (Oct 2013, New Zealand) : http://wso2.com/events/workshops/2013-october-auckland-wso2-integration-platform-discovery-workshop/
 * WSO2 Integration Platform Discovery (Nov 2012, Netherlands) : http://wso2.com/events/workshops/2012-november-the-hague-wso2-integration-platform-discovery-workshop/
@@ -66,6 +67,14 @@
 * WSO2 SOA Workshop (Sept 2009, Colombo) : http://lanyrd.com/2009/wso2-soa-workshop/
 
 ## Webinars 
+
+* How Blockchain Facilitates Self-Sovereign Identity (April, 2018) : https://www.brighttalk.com/webcast/16693/310903/how-blockchain-facilitates-self-sovereign-identity
+* OpenID to OpenID Connect Migration (Dec 2014) : http://wso2.com/library/webinars/2014/12/openid-to-openid-connect-migration/
+* Security in Cloud (Nov 2014) : http://wso2.com/library/webinars/2014/11/security-in-the-cloud/
+* The Evolution of Enterprise Identity (July 2014) : http://wso2.com/library/webinars/2014/07/the-evolution-of-enterprise-identity/
+* Bring Your Own IDentity (BYOID) with WSO2 Identity Server (April 2014) : http://wso2.com/library/webinars/2014/04/bring-your-own-identity-with-wso2-identity-server/
+* Patterns and Practices in Mobile SSO (March 2014) : http://wso2.com/library/webinars/2014/03/patterns-and-practices-in-mobile-sso/ 
+* Enterprise Integration with WSO2 ESB  (February 2013) : http://wso2.com/library/webinars/2014/02/enterprise-integration-with-wso2-esb/
 * Access Control Patterns and Practices with WSO2 Middleware Platform (Nov 2013) : http://wso2.com/library/webinars/2013/11/access-control-patterns-and-practices-with-wso2-middleware-platform/
 * Introducing the WSO2 Platform - Leading you to a Connected Business (Oct 2013) : http://wso2.com/library/webinars/2013/10/introducing-the-wso2-platform-leading-you-to-a-connected-business/
 * Identity in the Cloud (March 2010) : http://wso2.com/library/webinars/webinar-identity-cloud/
@@ -79,10 +88,5 @@
 * WSO2 Identity Server 2.0 Introduction (June 2009) : http://www.slideshare.net/prabathsiriwardena/wso2-identity-server-20-introduction
 * Identity as a Service (October 2008) : http://www.slideshare.net/prabathsiriwardena/identity-as-a-service-presentation
 * Understanding OpenID (June 2008) : http://www.slideshare.net/prabathsiriwardena/understanding-openid
-* Enterprise Integration with WSO2 ESB  (February 2013) : http://wso2.com/library/webinars/2014/02/enterprise-integration-with-wso2-esb/
-* Patterns and Practices in Mobile SSO (March 2014) : http://wso2.com/library/webinars/2014/03/patterns-and-practices-in-mobile-sso/ 
-* Bring Your Own IDentity (BYOID) with WSO2 Identity Server (April 2014) : http://wso2.com/library/webinars/2014/04/bring-your-own-identity-with-wso2-identity-server/
-* The Evolution of Enterprise Identity (July 2014) : http://wso2.com/library/webinars/2014/07/the-evolution-of-enterprise-identity/
-* Security in Cloud (Nov 2014) : http://wso2.com/library/webinars/2014/11/security-in-the-cloud/
-* OpenID to OpenID Connect Migration (Dec 2014) : http://wso2.com/library/webinars/2014/12/openid-to-openid-connect-migration/
+
 
