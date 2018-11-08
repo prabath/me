@@ -126,4 +126,12 @@
 * 51% Attack! : https://medium.facilelogin.com/51-attack-a72d26786b23
 * The Mystery Behind Block Time : https://medium.facilelogin.com/the-mystery-behind-block-time-63351e35603a
 * Bought It! Read It! Love It! Satya Nadella’s New Book, Hit Refresh : https://medium.facilelogin.com/bought-it-read-it-love-it-b9083e54f9a2
+* Identity on Blockchain (Part — II) Identity/Naming Systems : https://medium.facilelogin.com/identity-on-blockchain-part-ii-91dc51cb5beb
+* Identity on Blockchain (Part I) Blockchain Fundamentals : https://medium.facilelogin.com/identity-on-blockchain-part-i-a59d7abe75c0
+* Why Not All IAM Projects Cross The Finish Line? : https://medium.facilelogin.com/why-not-all-iam-projects-cross-the-finish-line-a767d6a2c0dd
+* Turning the Bank into a Platform (Part II) Open Banking : https://medium.facilelogin.com/turning-the-bank-into-a-platform-part-ii-ee4c76d8156
+* Turning the Bank into a Platform (Part I) Payment Services Directive 2 (PSD2) : https://medium.facilelogin.com/turning-the-bank-into-a-platform-part-i-7eefebd7945a
+* Customer IAM (CIAM) ~ Turning Identity Data Into Gold! : https://medium.facilelogin.com/customer-iam-ciam-turning-identity-data-into-gold-3dcfc93f0073
+* Ten IAM Design Principles : https://medium.facilelogin.com/ten-iam-design-principles-57351b6c69b2
+* General Data Protection Regulation (GDPR) for Identity Architects : https://medium.facilelogin.com/gdpr-for-identity-architects-1a6423759d30
 
