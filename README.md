@@ -19,7 +19,7 @@
 * WSO2Con(2018, London|2018 San Francisco|2017, London| 2017, San Francisco|2014 San Francisco|2014, Barcelona|2014, Colombo|2013, London|2013 San Francisco|2012, Colombo|2011, Colombo)
 * API Strategy & Practice (2014, Amsterdam)
 * ApacheCon NA (2013, Portland | 2011, Vancouver)
-* Open Source Developer Conference (New Zealand, 2013)
+* Open Source Developer Conference (2013, New Zealand)
 * IdentityNext (2012, Netherlands)
 * OSCON (2009, San Jose)
 * Apache Roadshow Asia (2009, Colombo)
