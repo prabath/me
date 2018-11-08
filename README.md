@@ -26,6 +26,7 @@
 * Open Source Developer Conference (2013, New Zealand)
 * IdentityNext (2012, Netherlands)
 * OSCON (2009, San Jose)
+* QCon (2015, Sao Paulo)
 * Apache Roadshow Asia (2009, Colombo)
 * Google Summer of Code Mentor Summit (2016, Mountain View)
 
