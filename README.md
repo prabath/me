@@ -64,7 +64,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 ## Workshops (Speaker)
 
-* Securing Microservices (Oct 2018, Orlando) : https://wso2.com/events/workshops/2018-october-orlando-securing-microservices/
+* [Securing Microservices,https://wso2.com/events/workshops/2018-october-orlando-securing-microservices/] (Oct 2018, Orlando)
 * Identity Federation and Strong Authentication with WSO2 Identity Server (July 2018, Virginia) : https://wso2.com/events/workshops/2018-july-virginia-identity-federation-and-strong-authentication-with-wso2-identity-server/
 * Building a customer-centric enterprise with CIAM (June 2018, New York) : https://wso2.com/events/workshops/2018-june-newyork-building-a-customer-centric-enterprise-with-ciam/
 * Building a customer-centric enterprise with CIAM (June 2018, Mountain View) : https://wso2.com/events/workshops/2018-june-mountainview-building-a-customer-centric-enterprise-with-ciam/
