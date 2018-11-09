@@ -23,8 +23,9 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 **Quora:** https://www.quora.com/profile/Prabath-Siriwardena
 
 ## Boooks (Author)
+
 <p align="right">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/418ma-gW8gL._SX403_BO1,204,203,200_.jpg" hieght="300" width="200" align="right" ></p>
+  <img src="https://images-na.ssl-images-amazon.com/images/I/418ma-gW8gL._SX403_BO1,204,203,200_.jpg" hieght="60" width="30" align="right" ></p>
   
 * Microservices Security in Action (2019, Manning)
 * Adavanced API Security 2nd Edition (2019, Apress)
