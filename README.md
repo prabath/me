@@ -125,6 +125,20 @@
 * Identity as a Service (October 2008) : http://www.slideshare.net/prabathsiriwardena/identity-as-a-service-presentation
 * Understanding OpenID (June 2008) : http://www.slideshare.net/prabathsiriwardena/understanding-openid
 
+## Meetups (Founder)
+
+* Silicon Valley IAM User Group : https://www.meetup.com/Silicon-Valley-IAM-User-Group/
+* JAVA Colombo : https://www.meetup.com/java-colombo/
+
+## Meetups (Speaker)
+
+* Microservice Security Landscape (Oct 2018) : Microservices, APIs and Integration - Silicon Valley Meetup
+* Securing Microservice (May 2018) : WSO2 Sri Lanka Meetup
+* General Data Protection Regulation for Identity Architects (Nov 2017) : GDPR Meetup - London
+* API Security Patterns and Practices (Nov 2015) : Silicon Valley IAM User Group
+* The Evolution of Internet Identity (April 2015) : Silicon Valley IAM User Group
+* Deep Dive into Java Security Architecture (July 2014) : JAVA Colombo
+
 ## Blogs (Blogger)
 
 * What Went Wrong? Facebook is in Crisis Again! : https://medium.facilelogin.com/what-went-wrong-d09b0dc24de4
@@ -162,19 +176,5 @@
 * Identity Broker Pattern ~ 15 Fundamentals : https://medium.facilelogin.com/identity-broker-pattern-15-fundamentals-4a4fc369bd09
 * Borderless Identity ~ Managing Identity in a Complex World : https://medium.facilelogin.com/borderless-identity-managing-identity-in-a-complex-world-998c68f351de
 * Securing the Insecure : https://medium.facilelogin.com/securing-the-insecure-e96310ccc386
-
-## Meetups (Founder)
-
-* Silicon Valley IAM User Group : https://www.meetup.com/Silicon-Valley-IAM-User-Group/
-* JAVA Colombo : https://www.meetup.com/java-colombo/
-
-## Meetups (Speaker)
-
-* Microservice Security Landscape (Oct 2018) : Microservices, APIs and Integration - Silicon Valley Meetup
-* Securing Microservice (May 2018) : WSO2 Sri Lanka Meetup
-* General Data Protection Regulation for Identity Architects (Nov 2017) : GDPR Meetup - London
-* API Security Patterns and Practices (Nov 2015) : Silicon Valley IAM User Group
-* The Evolution of Internet Identity (April 2015) : Silicon Valley IAM User Group
-* Deep Dive into Java Security Architecture (July 2014) : JAVA Colombo
 
 
