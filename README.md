@@ -10,13 +10,13 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 Prabath received the Outstanding Contribution Award consecutively for 9 years, since he joined WSO2 - and the Most Valuable Person (MVP) award in 2017. He moved to Silicon Valley in 2015 and currently working on a book on microservices security, to be released in March 2019.
 
-**LinkedIn: ** https://www.linkedin.com/in/prabathsiriwardena/
+**LinkedIn:** https://www.linkedin.com/in/prabathsiriwardena/
 
-**Twitter: ** https://twitter.com/prabath
+**Twitter:** https://twitter.com/prabath
 
-**Blog: ** http://blog.facilelogin.com
+**Blog:** http://blog.facilelogin.com
 
-**vLog: ** http://vlog.facilelogin.com
+**vLog:** http://vlog.facilelogin.com
 
 ## Boooks (Author)
 
