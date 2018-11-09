@@ -76,8 +76,10 @@
 * Identity and Access Management in the Era of Digital Transformation (July 2017, Colombo): https://wso2.com/events/workshops/2017-july-colombo-Identity-and-Access-Management-in-the-Era-of-Digital-Transformation/
 * Identity and Access Management in the Era of Digital Transformation (June 2017, Chicago): https://wso2.com/events/workshops/2017-june-chicago-Identity-and-Access-Management-in-the-Era-of-Digital-Transformation/ 
 * Identity and Access Management in the Era of Digital Transformation (June 2017, New York): https://wso2.com/events/workshops/2017-june-new-york-Identity-and-Access-Management-in-the-Era-of-Digital-Transformation/
+* OAuth 2.0 for Web and Native (Mobile) App Developers (March 2017, Mountain View) : https://www.meetup.com/639063e9-0b62-4073-a30a-d9960ad1ca2e/events/238396853/
 * Solution Patterns with the WSO2 Identity Server (March 2017, Vancouver) : https://wso2.com/events/workshops/2017-march-vancouver-solution-patterns-with-the-wso2-identity-server/
 * Solution Patterns with the WSO2 Identity Server (Feb 2017, Toronto) : https://wso2.com/events/workshops/2017-february-toronto-solution-patterns-with-the-wso2-identity-server/
+* Identity Management for Web Application Developers (Feb 2017, Mountain View) : https://www.meetup.com/639063e9-0b62-4073-a30a-d9960ad1ca2e/events/236370976/
 * API Security Best Practices & Guidelines (Dec 2016, Mounatin View) : https://wso2.com/events/workshops/2016-december-mountainview-api-security-best-practices-and-guidelines/
 * Solution Patterns with the WSO2 Identity Server (Sept 2016, Mounatin View) : https://wso2.com/events/workshops/solution-patterns-with-the-wso2-identity-server/
 * API, Integration, and SOA Convergence (April, 2015, Sao Paulo) : https://wso2.com/events/workshops/2015-april-sao-paulo-api-integration-and-soa-convergence-workshop/
