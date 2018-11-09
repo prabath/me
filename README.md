@@ -42,7 +42,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * Global Software Architecture Conference (2017, Santa Clara)
 * Block World (2018, San Jose)
 * API World (2018, San Jose | 2017, San Jose)
-* WSO2Con (2018, London | 2018 San Francisco (**Keynote**) | 2017, London | 2017, San Francisco | 2014 San Francisco | 2014, Barcelona | 2014, Colombo| 2013, London | 2013 San Francisco | 2012, Colombo | 2011, Colombo)
+* WSO2Con (2018, London | 2018 San Francisco (**Keynote**) | 2017, London | 2017, San Francisco | 2015 San Francisco | 2015, London| 2014 San Francisco | 2014, Barcelona | 2014, Colombo| 2013, London | 2013 San Francisco | 2012, Colombo | 2011, Colombo)
 * API Strategy & Practice (2014, Amsterdam)
 * ApacheCon NA (2013, Portland | 2011, Vancouver)
 * Open Source Developer Conference (2013, New Zealand)
