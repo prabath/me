@@ -215,3 +215,5 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * [Nonviolent Communication](https://www.amazon.com/gp/product/189200528X), Marshall B. Rosenberg
 * [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/gp/product/0525536221), John Doerr
 * [The Power of Customer Misbehavior: Drive Growth and Innovation by Learning from Your Customers](https://www.amazon.com/gp/product/1137348917), Kalle Lyytinen
+* [Fail Fast, Fail Often: How Losing Can Help You Win](https://www.amazon.com/gp/product/0399166254), Ryan Babineaux
+* [Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too](https://www.amazon.com/gp/product/0062674676), Gary Vaynerchuk
