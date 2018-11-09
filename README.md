@@ -149,8 +149,8 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 ## Whitepapers (Author)
 
-* WSO2 Security and Identity Gateway Solution (with Asanka Abeysinghe) : http://wso2.com/whitepapers/wso2-security-and-identity-gateway-solution/
 * Building an Ecosystem for API Security : http://wso2.com/whitepapers/wso2-whitepaper-building-an-ecosystem-for-api-security/
+* WSO2 Security and Identity Gateway Solution (with Asanka Abeysinghe) : http://wso2.com/whitepapers/wso2-security-and-identity-gateway-solution/
 
 ## Blogs (Blogger)
 
