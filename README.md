@@ -52,6 +52,11 @@
 * Apache Roadshow Asia (2009, Colombo)
 * Google Summer of Code Mentor Summit (2016, Mountain View)
 
+## Conferences (Attendee)
+
+* Gartner Identity and Access Management Summit (2018, Las Vegas)
+* Cloud Identity Summit (2011, Colorado)
+
 ## Workshops (Speaker)
 
 * Securing Microservices (Oct 2018, Orlando) : https://wso2.com/events/workshops/2018-october-orlando-securing-microservices/
