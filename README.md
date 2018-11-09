@@ -51,6 +51,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * QCon (2015, Sao Paulo)
 * Apache Roadshow Asia (2009, Colombo)
 * Google Summer of Code Mentor Summit (2016, Mountain View)
+* Google Developer Group (GDG) DevFest (2014, Colombo)
 
 ## Conferences (Attendee)
 
