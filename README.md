@@ -38,7 +38,7 @@
 * LASCON (2018, Austin | 2016 Austin)
 * GSMA Mobile World Congres (2017, San Francisco)
 * Consumer Identity World (2018, Seattle (**Keynote**))
-* Internet Identity Workshop (2017, Mountain View | 2016, Mountain View)
+* Internet Identity Workshop (Oct 2016, Mountain View | Oct 2015, Mountain View)
 * Global Software Architecture Conference (2017, Santa Clara)
 * Block World (2018, San Jose)
 * API World (2018, San Jose | 2017, San Jose)
@@ -56,6 +56,7 @@
 
 * Gartner Identity and Access Management Summit (2018, Las Vegas)
 * Cloud Identity Summit (2011, Colorado)
+* Internet Identity Workshop (Oct 2017, Mountain View | May 2017, Mountain View | April 2016, Mountain View | April 2015, Mountain View )
 
 ## Workshops (Speaker)
 
