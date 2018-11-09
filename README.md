@@ -24,11 +24,11 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 * Microservices Security in Action (2019, Manning)
 * Adavanced API Security 2nd Edition (2019, Apress)
-* Microservices for the Enterprise (2018, Apress)
-* Adavanced API Security (2014, Apress)
-* Mastering Apache Maven 2 (2014, PACKT)
-* Maven Essentials (2015, PACKT)
-* Enterprise Integration with WSO2 ESB (2013, PACKT)
+* [Microservices for the Enterprise](https://www.amazon.com/gp/product/1484238575) (2018, Apress)
+* [Adavanced API Security](https://www.amazon.com/gp/product/1430268182) (2014, Apress)
+* [Mastering Apache Maven 2](https://www.amazon.com/gp/product/B00RP13CMU) (2014, PACKT)
+* [Maven Essentials](https://www.amazon.com/gp/product/B015CYBP16) (2015, PACKT)
+*[ Enterprise Integration with WSO2 ESB](https://www.amazon.com/gp/product/1783280190) (2013, PACKT)
 
 ## Conferences (Speaker)
 
