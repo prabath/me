@@ -47,12 +47,12 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * ApacheCon NA (2013, Portland | 2011, Vancouver)
 * Open Source Developer Conference (2013, New Zealand)
 * IdentityNext (2012, Netherlands)
-* OSCON (2009, San Jose)
 * QCon (2015, Sao Paulo)
 * Apache Roadshow Asia (2009, Colombo)
 * Google Summer of Code Mentor Summit (2016, Mountain View)
 * Google Developer Group (GDG) DevFest (2014, Colombo)
 * FOSS Security, Sri Lanka CERT (2011, Colombo)
+* OSCON (2009, San Jose)
 
 ## Conferences (Attendee)
 
