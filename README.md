@@ -147,7 +147,8 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * [Introduction to Blockchain and Bitcoin](https://www.bi.vt.edu/ndssl/news/events/introduction-to-blockchain-and-bitcoin) (Nov 2017) : Biocomplexity Institute of Virginia Tech 
 * Identity on Blockchain (July 2017) : Computer Society of Sri Lanka (CSSL) Tech Talk
 * [API Security Patterns and Practices](https://www.meetup.com/Silicon-Valley-IAM-User-Group/events/225963849/) (Nov 2015) : Silicon Valley IAM User Group
-* [Best Practices in Building an API Security Ecosystem]() : SLAC National Accelerator Laboratory, Stanford University 
+* [WSO2 Identity Server](https://www.xsede.org/ecosystem/science-gateways/gateways-symposium) (Sept 2015) : Science Gateways Symposium
+* Best Practices in Building an API Security Ecosystem : SLAC National Accelerator Laboratory, Stanford University 
 * [The Evolution of Internet Identity](https://www.meetup.com/Silicon-Valley-IAM-User-Group/events/221169499/) (April 2015) : Silicon Valley IAM User Group
 * [Deep Dive into Java Security Architecture](https://www.meetup.com/java-colombo/events/171425172/) (July 2014) : JAVA Colombo
 
