@@ -23,7 +23,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 ## Boooks (Author)
 <p align="right">
-  <img src="https://images.springer.com/sgw/books/raw/9781484238578.tif" align="right" >
+  <img src="https://images-na.ssl-images-amazon.com/images/I/41XwllbbeYL._SX348_BO1,204,203,200_.jpg" align="right" >
 </p>
 
 * Microservices Security in Action (2019, Manning)
