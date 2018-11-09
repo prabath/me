@@ -149,49 +149,49 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 ## Whitepapers (Author)
 
-* Building an Ecosystem for API Security : http://wso2.com/whitepapers/wso2-whitepaper-building-an-ecosystem-for-api-security/
-* WSO2 Security and Identity Gateway Solution (with Asanka Abeysinghe) : http://wso2.com/whitepapers/wso2-security-and-identity-gateway-solution/
+* [Building an Ecosystem for API Security](http://wso2.com/whitepapers/wso2-whitepaper-building-an-ecosystem-for-api-security/http://wso2.com/whitepapers/wso2-security-and-identity-gateway-solution/
+* [WSO2 Security and Identity Gateway Solution](http://wso2.com/whitepapers/wso2-security-and-identity-gateway-solution/) (with Asanka Abeysinghe)
 
 ## Research Papers (Author)
 
-* Multi-tenant SOA Middleware for Cloud Computing (2010) : https://www.computer.org/csdl/proceedings-article/2010/cloud/4130a458/12OmNqIzhbF
+* [Multi-tenant SOA Middleware for Cloud Computing (2010)](https://www.computer.org/csdl/proceedings-article/2010/cloud/4130a458/12OmNqIzhbF)
 
 ## Blogs (Blogger)
 
-* What Went Wrong? Facebook is in Crisis Again! : https://medium.facilelogin.com/what-went-wrong-d09b0dc24de4
-* Build Your Own Blockchain : https://medium.facilelogin.com/build-your-own-blockchain-b8eaeea2f891
-* 51% Attack! : https://medium.facilelogin.com/51-attack-a72d26786b23
-* The Mystery Behind Block Time : https://medium.facilelogin.com/the-mystery-behind-block-time-63351e35603a
-* Bought It! Read It! Love It! Satya Nadella’s New Book, Hit Refresh : https://medium.facilelogin.com/bought-it-read-it-love-it-b9083e54f9a2
-* Identity on Blockchain (Part — II) Identity/Naming Systems : https://medium.facilelogin.com/identity-on-blockchain-part-ii-91dc51cb5beb
-* Identity on Blockchain (Part I) Blockchain Fundamentals : https://medium.facilelogin.com/identity-on-blockchain-part-i-a59d7abe75c0
-* Why Not All IAM Projects Cross The Finish Line? : https://medium.facilelogin.com/why-not-all-iam-projects-cross-the-finish-line-a767d6a2c0dd
-* Turning the Bank into a Platform (Part II) Open Banking : https://medium.facilelogin.com/turning-the-bank-into-a-platform-part-ii-ee4c76d8156
-* Turning the Bank into a Platform (Part I) Payment Services Directive 2 (PSD2) : https://medium.facilelogin.com/turning-the-bank-into-a-platform-part-i-7eefebd7945a
-* Customer IAM (CIAM) ~ Turning Identity Data Into Gold! : https://medium.facilelogin.com/customer-iam-ciam-turning-identity-data-into-gold-3dcfc93f0073
-* Ten IAM Design Principles : https://medium.facilelogin.com/ten-iam-design-principles-57351b6c69b2
-* General Data Protection Regulation (GDPR) for Identity Architects : https://medium.facilelogin.com/gdpr-for-identity-architects-1a6423759d30
-* Understanding General Data Protection Regulation (GDPR) : https://medium.facilelogin.com/understanding-gdpr-9201e1356418
-* Better Aadhaar with Blockchain : https://medium.facilelogin.com/making-aadhaar-better-with-blockchain-ec3aef9852b0
-* Monetizing and Spam-filtering Public APIs with Bitcoin : https://medium.facilelogin.com/monetizing-and-spam-filtering-public-apis-with-bitcoin-38c4a3ec71f7
-* OAuth 2.0 Token Binding : https://medium.facilelogin.com/oauth-2-0-token-binding-e84cbb2e60
-* Nuts and Bolts of Transport Layer Security (TLS) : https://medium.facilelogin.com/nuts-and-bolts-of-transport-layer-security-tls-2c5af298c4be
-* OAuth 2.0 Threat Landscape : https://medium.facilelogin.com/oauth-2-0-threat-landscapes-9756e5bc44ee
-* A Deeper Look Into Bitcoin Internals : https://medium.facilelogin.com/pay-with-bitcoin-to-play-with-a-fidget-spinner-86b7b43414c0
-* The Starfish and the Spider : https://medium.facilelogin.com/the-starfish-and-the-spider-9ca778281442
-* The Role of Identity and Access Management in the Era of Digital Transformation : https://medium.facilelogin.com/the-role-of-identity-and-access-management-in-the-era-of-digital-transformation-48a472ce3247
-* IDENTITY is the NEW MONEY : https://medium.facilelogin.com/identity-is-the-new-money-b4abe406e615
-* The Age of the Platform : https://medium.facilelogin.com/the-age-of-the-platform-bd6fd5946f24
-* Building Microservices : https://medium.facilelogin.com/building-microservices-designing-fined-grained-systems-d37b57a97c4e
-* Short-Lived Certificates @ Netflix : https://medium.facilelogin.com/short-lived-certificates-netflix-fd5f3ae5bc9
-* JSON Message Signing Alternatives : https://medium.facilelogin.com/json-message-signing-alternatives-897f90d411c
-* JWT, JWS and JWE for Not So Dummies! (Part I) : https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3
-* GSMA Mobile Connect vs OpenID Connect : https://medium.facilelogin.com/gsma-mobile-connect-vs-openid-connect-eb3935a99b89
-* Thirty Solution Patterns with the WSO2 Identity Server : https://medium.facilelogin.com/thirty-solution-patterns-with-the-wso2-identity-server-16f9fd0c0389
-* Securing Microservices (Part I) : https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml-d03770a9a838
-* WSO2 Identity Server ~ The Inside Story : https://medium.facilelogin.com/wso2-identity-server-6570bf4d57c9
-* Identity Broker Pattern ~ 15 Fundamentals : https://medium.facilelogin.com/identity-broker-pattern-15-fundamentals-4a4fc369bd09
-* Borderless Identity ~ Managing Identity in a Complex World : https://medium.facilelogin.com/borderless-identity-managing-identity-in-a-complex-world-998c68f351de
-* Securing the Insecure : https://medium.facilelogin.com/securing-the-insecure-e96310ccc386
+* [What Went Wrong? Facebook is in Crisis Again!](https://medium.facilelogin.com/what-went-wrong-d09b0dc24de4)
+* [Build Your Own Blockchain](https://medium.facilelogin.com/build-your-own-blockchain-b8eaeea2f891)
+* [51% Attack!](https://medium.facilelogin.com/51-attack-a72d26786b23)
+* [The Mystery Behind Block Time](https://medium.facilelogin.com/the-mystery-behind-block-time-63351e35603a)
+* [Bought It! Read It! Love It! Satya Nadella’s New Book, Hit Refresh](https://medium.facilelogin.com/bought-it-read-it-love-it-b9083e54f9a2)
+* [Identity on Blockchain (Part — II) Identity/Naming Systems](https://medium.facilelogin.com/identity-on-blockchain-part-ii-91dc51cb5beb)
+* [Identity on Blockchain (Part I) Blockchain Fundamentals](https://medium.facilelogin.com/identity-on-blockchain-part-i-a59d7abe75c0)
+* [Why Not All IAM Projects Cross The Finish Line?](https://medium.facilelogin.com/why-not-all-iam-projects-cross-the-finish-line-a767d6a2c0dd)
+* [Turning the Bank into a Platform (Part II) Open Banking](https://medium.facilelogin.com/turning-the-bank-into-a-platform-part-ii-ee4c76d8156)
+* [Turning the Bank into a Platform (Part I) Payment Services Directive 2 (PSD2)](https://medium.facilelogin.com/turning-the-bank-into-a-platform-part-i-7eefebd7945a)
+* [Customer IAM (CIAM) ~ Turning Identity Data Into Gold!](https://medium.facilelogin.com/customer-iam-ciam-turning-identity-data-into-gold-3dcfc93f0073)
+* [Ten IAM Design Principles](https://medium.facilelogin.com/ten-iam-design-principles-57351b6c69b2)
+* [General Data Protection Regulation (GDPR) for Identity Architects](https://medium.facilelogin.com/gdpr-for-identity-architects-1a6423759d30)
+* [Understanding General Data Protection Regulation (GDPR)](https://medium.facilelogin.com/understanding-gdpr-9201e1356418)
+* [Better Aadhaar with Blockchain](https://medium.facilelogin.com/making-aadhaar-better-with-blockchain-ec3aef9852b0)
+* [Monetizing and Spam-filtering Public APIs with Bitcoin](https://medium.facilelogin.com/monetizing-and-spam-filtering-public-apis-with-bitcoin-38c4a3ec71f7)
+* [OAuth 2.0 Token Binding](https://medium.facilelogin.com/oauth-2-0-token-binding-e84cbb2e60)
+* [Nuts and Bolts of Transport Layer Security (TLS)](https://medium.facilelogin.com/nuts-and-bolts-of-transport-layer-security-tls-2c5af298c4be)
+* [OAuth 2.0 Threat Landscape](https://medium.facilelogin.com/oauth-2-0-threat-landscapes-9756e5bc44ee)
+* [A Deeper Look Into Bitcoin Internals](https://medium.facilelogin.com/pay-with-bitcoin-to-play-with-a-fidget-spinner-86b7b43414c0)
+* [The Starfish and the Spider](https://medium.facilelogin.com/the-starfish-and-the-spider-9ca778281442)
+* [The Role of Identity and Access Management in the Era of Digital Transformation](https://medium.facilelogin.com/the-role-of-identity-and-access-management-in-the-era-of-digital-transformation-48a472ce3247)
+* [IDENTITY is the NEW MONEY](ttps://medium.facilelogin.com/identity-is-the-new-money-b4abe406e615)
+* [The Age of the Platform](https://medium.facilelogin.com/the-age-of-the-platform-bd6fd5946f24)
+* [Building Microservices](https://medium.facilelogin.com/building-microservices-designing-fined-grained-systems-d37b57a97c4e)
+* [Short-Lived Certificates @ Netflix](https://medium.facilelogin.com/short-lived-certificates-netflix-fd5f3ae5bc9)
+* [JSON Message Signing Alternatives](https://medium.facilelogin.com/json-message-signing-alternatives-897f90d411c)
+* [JWT, JWS and JWE for Not So Dummies! (Part I)](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)
+* [GSMA Mobile Connect vs OpenID Connect](https://medium.facilelogin.com/gsma-mobile-connect-vs-openid-connect-eb3935a99b89)
+* [Thirty Solution Patterns with the WSO2 Identity Server](https://medium.facilelogin.com/thirty-solution-patterns-with-the-wso2-identity-server-16f9fd0c0389)
+* [Securing Microservices (Part I)](https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml-d03770a9a838)
+* [WSO2 Identity Server ~ The Inside Story](https://medium.facilelogin.com/wso2-identity-server-6570bf4d57c9)
+* [Identity Broker Pattern ~ 15 Fundamentals](https://medium.facilelogin.com/identity-broker-pattern-15-fundamentals-4a4fc369bd09)
+* [Borderless Identity ~ Managing Identity in a Complex World](https://medium.facilelogin.com/borderless-identity-managing-identity-in-a-complex-world-998c68f351de)
+* [Securing the Insecure](https://medium.facilelogin.com/securing-the-insecure-e96310ccc386)
 
 
