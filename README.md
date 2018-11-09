@@ -66,43 +66,43 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 * [Securing Microservices](https://wso2.com/events/workshops/2018-october-orlando-securing-microservices/) (Oct 2018, Orlando)
 * [Identity Federation and Strong Authentication with WSO2 Identity Server](https://wso2.com/events/workshops/2018-july-virginia-identity-federation-and-strong-authentication-with-wso2-identity-server/) (July 2018, Virginia)
-* [Building a customer-centric enterprise with CIAM]( https://wso2.com/events/workshops/2018-june-newyork-building-a-customer-centric-enterprise-with-ciam/) (June 2018, New York)
-* Building a customer-centric enterprise with CIAM (June 2018, Mountain View) : https://wso2.com/events/workshops/2018-june-mountainview-building-a-customer-centric-enterprise-with-ciam/
-* API Security Best Practices & Guidelines (June 2018, Singapore) : https://wso2.com/events/workshops/2018-june-singapore-api-security-best-practices-guidelines/
-* API Security Best Practices & Guidelines (May 2018, Chicago) : https://wso2.com/events/workshops/2018-may-api-security-best-practices-and-guidelines/ 
-* API Security Best Practices & Guidelines (May 2018, Orlando) : https://wso2.com/events/workshops/2018-may-orlando-api-security-best-practices-and-guidelines/
-* Securing Microservices (May 2018, Columbus) : https://wso2.com/events/workshops/2018-may-columbus-securing-microservices/
-* The Role of Privacy in Your CIAM Strategy (May 2018, Toronto) : https://wso2.com/events/workshops/the-role-of-privacy-in-your-ciam-strategy/
-* Building a Customer-centric Enterprise with CIAM (April 2018, Montreal) : https://wso2.com/events/workshops/2018-april-montreal-building-a-customer-centric-enterprise-with-ciam/
-* Identity Management for Identity Architects (Jan 2018, Colombo) : https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/
-* Identity Management for Web App Developers  (Jan 2018, Colombo) : https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/
-* OAuth 2.0 for Web and Native (Mobile) App Developers (Jan 2018, Colombo) : https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/
-* Identity and Access Management in the Era of Digital Transformation (July 2017, Colombo): https://wso2.com/events/workshops/2017-july-colombo-Identity-and-Access-Management-in-the-Era-of-Digital-Transformation/
-* Identity and Access Management in the Era of Digital Transformation (June 2017, Chicago): https://wso2.com/events/workshops/2017-june-chicago-Identity-and-Access-Management-in-the-Era-of-Digital-Transformation/ 
-* Identity and Access Management in the Era of Digital Transformation (June 2017, New York): https://wso2.com/events/workshops/2017-june-new-york-Identity-and-Access-Management-in-the-Era-of-Digital-Transformation/
-* OAuth 2.0 for Web and Native (Mobile) App Developers (March 2017, Mountain View) : https://www.meetup.com/639063e9-0b62-4073-a30a-d9960ad1ca2e/events/238396853/
-* Solution Patterns with the WSO2 Identity Server (March 2017, Vancouver) : https://wso2.com/events/workshops/2017-march-vancouver-solution-patterns-with-the-wso2-identity-server/
-* Solution Patterns with the WSO2 Identity Server (Feb 2017, Toronto) : https://wso2.com/events/workshops/2017-february-toronto-solution-patterns-with-the-wso2-identity-server/
-* Identity Management for Web Application Developers (Feb 2017, Mountain View) : https://www.meetup.com/639063e9-0b62-4073-a30a-d9960ad1ca2e/events/236370976/
-* API Security Best Practices & Guidelines (Dec 2016, Mounatin View) : https://wso2.com/events/workshops/2016-december-mountainview-api-security-best-practices-and-guidelines/
-* Solution Patterns with the WSO2 Identity Server (Sept 2016, Mounatin View) : https://wso2.com/events/workshops/solution-patterns-with-the-wso2-identity-server/
-* API, Integration, and SOA Convergence (April, 2015, Sao Paulo) : https://wso2.com/events/workshops/2015-april-sao-paulo-api-integration-and-soa-convergence-workshop/
-* API, Integration, and SOA Convergence (March, 2015, Brasilia) : https://wso2.com/events/workshops/2015-march-brasilia-api-integration-and-soa-convergence-workshop/
-* API, Integration, and SOA Convergence (March, 2015, Rio) : https://wso2.com/events/workshops/2015-march-rio-api-integration-and-soa-convergence-workshop/
-* API, Integration, and SOA Convergence (Feb, 2015, Mountain View) : https://wso2.com/events/workshops/2015-february-mountain-view-enterprise-identity-and-api-management-workshop/
-* API, Integration, and SOA Convergence (Feb, 2015, Los Angeles) : https://wso2.com/events/workshops/2015-february-los-angeles-api-integration-and-soa-convergence-workshop/
-* Federated Identity & Access Management (May 2014, Munich) : http://wso2.com/events/workshops/2014-may-munich-federated-identity-and-access-management-workshop/
-* WSO2 Integration Platform Discovery (Oct 2013, New Zealand) : http://wso2.com/events/workshops/2013-october-auckland-wso2-integration-platform-discovery-workshop/
-* WSO2 Integration Platform Discovery (Nov 2012, Netherlands) : http://wso2.com/events/workshops/2012-november-the-hague-wso2-integration-platform-discovery-workshop/
-* WSO2 Integration Platform Discovery (Sept 2012, Dubai) : http://wso2.com/events/workshops/2012-september-duabi-wso2-integration-platform-discovery-workshop/
-* Carbon and Stratos: Understanding Cloud-enabled Modular Middleware (Nov 2011, Canada) : http://wso2.com/events/workshops/2011-november-vancouver-carbon-stratos-workshop/
-* Security in the Cloud (Oct 2011, New York) : http://lanyrd.com/2011/wso2-security-in-the-cloud-workshop-2/
-* Security in the Cloud (Aug 2011, Palo Alto) : http://wso2.com/events/workshops/2011-august-palo-alto-security-in-the-cloud-workshop/
-* SOA Security and Identity (March 2011, Dallas) : http://wso2.com/events/workshops/2011-march-usa-security-workshop/
-* SOA Security and Identity (March 2011, New York) : http://wso2.com/events/workshops/2011-march-usa-security-workshop/
-* SOA Security and Identity (March 2011, Washington) : http://wso2.com/events/workshops/2011-march-usa-security-workshop/
-* WSO2 SOA Workshop (Nov 2009, Santa Clara) : http://lanyrd.com/2009/wso2-soa-workshop-2/
-* WSO2 SOA Workshop (Sept 2009, Colombo) : http://lanyrd.com/2009/wso2-soa-workshop/
+* [Building a customer-centric enterprise with CIAM]() https://wso2.com/events/workshops/2018-june-newyork-building-a-customer-centric-enterprise-with-ciam/) (June 2018, New York)
+* [Building a customer-centric enterprise with CIAM]() (June 2018, Mountain View) : https://wso2.com/events/workshops/2018-june-mountainview-building-a-customer-centric-enterprise-with-ciam/
+* [API Security Best Practices & Guidelines]() (June 2018, Singapore) : https://wso2.com/events/workshops/2018-june-singapore-api-security-best-practices-guidelines/
+* [API Security Best Practices & Guidelines]() (May 2018, Chicago) : https://wso2.com/events/workshops/2018-may-api-security-best-practices-and-guidelines/ 
+* [API Security Best Practices & Guidelines]() (May 2018, Orlando) : https://wso2.com/events/workshops/2018-may-orlando-api-security-best-practices-and-guidelines/
+* [Securing Microservices]() (May 2018, Columbus) : https://wso2.com/events/workshops/2018-may-columbus-securing-microservices/
+* [The Role of Privacy in Your CIAM Strategy]() (May 2018, Toronto) : https://wso2.com/events/workshops/the-role-of-privacy-in-your-ciam-strategy/
+* [Building a Customer-centric Enterprise with CIAM]() (April 2018, Montreal) : https://wso2.com/events/workshops/2018-april-montreal-building-a-customer-centric-enterprise-with-ciam/
+* [Identity Management for Identity Architects]() (Jan 2018, Colombo) : https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/
+* [Identity Management for Web App Developers]() (Jan 2018, Colombo) : https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/
+* [OAuth 2.0 for Web and Native (Mobile) App Developers]() (Jan 2018, Colombo) : https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/
+* [Identity and Access Management in the Era of Digital Transformation]() (July 2017, Colombo): https://wso2.com/events/workshops/2017-july-colombo-Identity-and-Access-Management-in-the-Era-of-Digital-Transformation/
+* [Identity and Access Management in the Era of Digital Transformation]() (June 2017, Chicago): https://wso2.com/events/workshops/2017-june-chicago-Identity-and-Access-Management-in-the-Era-of-Digital-Transformation/ 
+* [Identity and Access Management in the Era of Digital Transformation]() (June 2017, New York): https://wso2.com/events/workshops/2017-june-new-york-Identity-and-Access-Management-in-the-Era-of-Digital-Transformation/
+* [OAuth 2.0 for Web and Native (Mobile) App Developers]() (March 2017, Mountain View) : https://www.meetup.com/639063e9-0b62-4073-a30a-d9960ad1ca2e/events/238396853/
+* [Solution Patterns with the WSO2 Identity Server]() (March 2017, Vancouver) : https://wso2.com/events/workshops/2017-march-vancouver-solution-patterns-with-the-wso2-identity-server/
+* [Solution Patterns with the WSO2 Identity Server]() (Feb 2017, Toronto) : https://wso2.com/events/workshops/2017-february-toronto-solution-patterns-with-the-wso2-identity-server/
+* [Identity Management for Web Application Developers]() (Feb 2017, Mountain View) : https://www.meetup.com/639063e9-0b62-4073-a30a-d9960ad1ca2e/events/236370976/
+* [API Security Best Practices & Guidelines]() (Dec 2016, Mounatin View) : https://wso2.com/events/workshops/2016-december-mountainview-api-security-best-practices-and-guidelines/
+* [Solution Patterns with the WSO2 Identity Server]() (Sept 2016, Mounatin View) : https://wso2.com/events/workshops/solution-patterns-with-the-wso2-identity-server/
+* [API, Integration, and SOA Convergence]() (April, 2015, Sao Paulo) : https://wso2.com/events/workshops/2015-april-sao-paulo-api-integration-and-soa-convergence-workshop/
+* [API, Integration, and SOA Convergence]() (March, 2015, Brasilia) : https://wso2.com/events/workshops/2015-march-brasilia-api-integration-and-soa-convergence-workshop/
+* [API, Integration, and SOA Convergence]() (March, 2015, Rio) : https://wso2.com/events/workshops/2015-march-rio-api-integration-and-soa-convergence-workshop/
+* [API, Integration, and SOA Convergence]() (Feb, 2015, Mountain View) : https://wso2.com/events/workshops/2015-february-mountain-view-enterprise-identity-and-api-management-workshop/
+* [API, Integration, and SOA Convergence]() (Feb, 2015, Los Angeles) : https://wso2.com/events/workshops/2015-february-los-angeles-api-integration-and-soa-convergence-workshop/
+* [Federated Identity & Access Management]() (May 2014, Munich) : http://wso2.com/events/workshops/2014-may-munich-federated-identity-and-access-management-workshop/
+* [WSO2 Integration Platform Discovery]() (Oct 2013, New Zealand) : http://wso2.com/events/workshops/2013-october-auckland-wso2-integration-platform-discovery-workshop/
+* [WSO2 Integration Platform Discovery]() (Nov 2012, Netherlands) : http://wso2.com/events/workshops/2012-november-the-hague-wso2-integration-platform-discovery-workshop/
+* [WSO2 Integration Platform Discovery](http://wso2.com/events/workshops/2012-september-duabi-wso2-integration-platform-discovery-workshop/) (Sept 2012, Dubai)
+* [Carbon and Stratos: Understanding Cloud-enabled Modular Middleware](http://wso2.com/events/workshops/2011-november-vancouver-carbon-stratos-workshop/) (Nov 2011, Canada) : 
+* [Security in the Cloud](http://lanyrd.com/2011/wso2-security-in-the-cloud-workshop-2/) (Oct 2011, New York)
+* [Security in the Cloud](http://wso2.com/events/workshops/2011-august-palo-alto-security-in-the-cloud-workshop/) (Aug 2011, Palo Alto)
+* [SOA Security and Identity](http://wso2.com/events/workshops/2011-march-usa-security-workshop/) (March 2011, Dallas)
+* [SOA Security and Identity](http://wso2.com/events/workshops/2011-march-usa-security-workshop/) (March 2011, New York)
+* [SOA Security and Identity](http://wso2.com/events/workshops/2011-march-usa-security-workshop/) (March 2011, Washington)
+* [WSO2 SOA Workshop](http://lanyrd.com/2009/wso2-soa-workshop-2/) (Nov 2009, Santa Clara)
+* [WSO2 SOA Workshop](http://lanyrd.com/2009/wso2-soa-workshop/) (Sept 2009, Colombo)
 
 ## Webinars (Speaker)
 
