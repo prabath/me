@@ -134,8 +134,8 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 ## Meetups (Founder)
 
-* Silicon Valley IAM User Group : https://www.meetup.com/Silicon-Valley-IAM-User-Group/
-* JAVA Colombo : https://www.meetup.com/java-colombo/
+* [Silicon Valley IAM User Group](https://www.meetup.com/Silicon-Valley-IAM-User-Group/)
+* [JAVA Colombo](https://www.meetup.com/java-colombo/)
 
 ## Meetups (Speaker)
 
@@ -149,7 +149,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 ## Whitepapers (Author)
 
-* [Building an Ecosystem for API Security](http://wso2.com/whitepapers/wso2-whitepaper-building-an-ecosystem-for-api-security/http://wso2.com/whitepapers/wso2-security-and-identity-gateway-solution/
+* [Building an Ecosystem for API Security](http://wso2.com/whitepapers/wso2-whitepaper-building-an-ecosystem-for-api-security/http://wso2.com/whitepapers/wso2-security-and-identity-gateway-solution/)
 * [WSO2 Security and Identity Gateway Solution](http://wso2.com/whitepapers/wso2-security-and-identity-gateway-solution/) (with Asanka Abeysinghe)
 
 ## Research Papers (Author)
@@ -180,7 +180,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * [A Deeper Look Into Bitcoin Internals](https://medium.facilelogin.com/pay-with-bitcoin-to-play-with-a-fidget-spinner-86b7b43414c0)
 * [The Starfish and the Spider](https://medium.facilelogin.com/the-starfish-and-the-spider-9ca778281442)
 * [The Role of Identity and Access Management in the Era of Digital Transformation](https://medium.facilelogin.com/the-role-of-identity-and-access-management-in-the-era-of-digital-transformation-48a472ce3247)
-* [IDENTITY is the NEW MONEY](ttps://medium.facilelogin.com/identity-is-the-new-money-b4abe406e615)
+* [IDENTITY is the NEW MONEY](https://medium.facilelogin.com/identity-is-the-new-money-b4abe406e615)
 * [The Age of the Platform](https://medium.facilelogin.com/the-age-of-the-platform-bd6fd5946f24)
 * [Building Microservices](https://medium.facilelogin.com/building-microservices-designing-fined-grained-systems-d37b57a97c4e)
 * [Short-Lived Certificates @ Netflix](https://medium.facilelogin.com/short-lived-certificates-netflix-fd5f3ae5bc9)
