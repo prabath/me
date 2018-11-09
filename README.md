@@ -152,6 +152,10 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * Building an Ecosystem for API Security : http://wso2.com/whitepapers/wso2-whitepaper-building-an-ecosystem-for-api-security/
 * WSO2 Security and Identity Gateway Solution (with Asanka Abeysinghe) : http://wso2.com/whitepapers/wso2-security-and-identity-gateway-solution/
 
+## Research Papers (Author)
+
+* Multi-tenant SOA Middleware for Cloud Computing (2010) : https://www.computer.org/csdl/proceedings-article/2010/cloud/4130a458/12OmNqIzhbF
+
 ## Blogs (Blogger)
 
 * What Went Wrong? Facebook is in Crisis Again! : https://medium.facilelogin.com/what-went-wrong-d09b0dc24de4
