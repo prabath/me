@@ -55,8 +55,8 @@
 ## Conferences (Attendee)
 
 * Gartner Identity and Access Management Summit (2018, Las Vegas)
-* Cloud Identity Summit (2011, Colorado)
 * Internet Identity Workshop (Oct 2017, Mountain View | May 2017, Mountain View | April 2016, Mountain View | April 2015, Mountain View )
+* Cloud Identity Summit (2011, Colorado)
 
 ## Workshops (Speaker)
 
