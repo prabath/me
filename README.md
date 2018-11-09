@@ -145,6 +145,11 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * The Evolution of Internet Identity (April 2015) : Silicon Valley IAM User Group
 * Deep Dive into Java Security Architecture (July 2014) : JAVA Colombo
 
+## Whitepapers (Author)
+
+* WSO2 Security and Identity Gateway Solution (with Asanka Abeysinghe) : http://wso2.com/whitepapers/wso2-security-and-identity-gateway-solution/
+* Building an Ecosystem for API Security : http://wso2.com/whitepapers/wso2-whitepaper-building-an-ecosystem-for-api-security/
+
 ## Blogs (Blogger)
 
 * What Went Wrong? Facebook is in Crisis Again! : https://medium.facilelogin.com/what-went-wrong-d09b0dc24de4
