@@ -1,6 +1,7 @@
 <p align="right">
   <img src="https://images-na.ssl-images-amazon.com/images/I/81hPYZw8m+L._US230_.jpg" align="right" >
 </p>
+
 ## Prabath Siriwardena
 
 Prabath Siriwardena is an identity evangelist, author, blogger and the Vice President IAM & Security Architecture at WSO2, with more than 11 years of industry experience in designing and building critical Identity and Access Management infrastructure for global enterprises, including many Fortune 100/500 companies. He spent most of his time in last 11 years with the WSO2 IAM team, in leading the development of the open source WSO2 Identity Server, which is used by hundreds of top companies and more than 500 Universities globally, and also within the open source communities. WSO2 Identity Server is one of the top leading open source access management products. It serves more than 75 million identities globally and handles more than 1 million authentication requests on daily basis.
