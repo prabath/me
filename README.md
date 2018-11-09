@@ -204,4 +204,5 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * [Powerful: Building a Culture of Freedom and Responsibility](https://www.amazon.com/Powerful-Building-Culture-Freedom-Responsibility/dp/1939714095/), Patty McCord
 * [Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone/dp/0062652508), Satya Nadella, Greg Shaw
 * [WTF?: What's the Future and Why It's Up to Us](https://www.amazon.com/WTF-Whats-Future-Why-Its/dp/0062565710), Tim O'Reilly
-
+* [The New Kingmakers: How Developers Conquered the World](https://www.amazon.com/gp/product/1449356346), Stephen O'Grady
+* [Connecting the Dots: Lessons for Leadership in a Startup World](https://www.amazon.com/gp/product/031648654X), John Chambers
