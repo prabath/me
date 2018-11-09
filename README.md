@@ -34,14 +34,14 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 ## Conferences (Speaker)
 
-* Identiverse (2018, Boston)
-* RSA Conference (2018, San Francisco)
-* Cloud Identity Summit (2017, Chicago | 2016, New Orleans)
+* Identiverse ([2018](https://www.youtube.com/watch?v=LNihgqvOqOk), Boston)
+* RSA Conference ([2018](https://www.youtube.com/watch?v=FBFEuP5ZVj0), San Francisco)
+* Cloud Identity Summit ([2017](https://www.youtube.com/watch?v=lXX1OhY4knM), Chicago | 2016, New Orleans)
 * European Identity Conference (2015, Munich (**Keynote**) | 2014, Munich | 2012, Munich)
 * Cloud Security Alliance (2018, Seattle)
 * LASCON (2018, Austin | 2016 Austin)
 * GSMA Mobile World Congres (2017, San Francisco)
-* Consumer Identity World (2018, Seattle (**Keynote**))
+* Consumer Identity World ([2018](https://www.youtube.com/watch?v=4JdWe02SABU), Seattle (**Keynote**))
 * Internet Identity Workshop (Oct 2016, Mountain View | Oct 2015, Mountain View)
 * Global Software Architecture Conference (2017, Santa Clara)
 * Block World (2018, San Jose)
