@@ -109,6 +109,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * Securing Access to SaaS Apps with GSMA Mobile Connect (Nov, 2016) : https://wso2.com/library/webinars/2016/11/securing-access-to-saas-apps-with-gsma-mobile-connect/
 * WSO2 Security Platform: Vision and Roadmap (May 2016) : https://wso2.com/library/webinars/2016/05/wso2-security-platform-vision-and-roadmap/
 * Connected Identity: Benefits, Risks & Challenges (May 2015) : https://wso2.com/library/webinars/2015/05/connected-identity-benefits-risks-and-challenges/
+* Borderless Identity: Managing Identity in a Complex World (April 2015) : https://www.kuppingercole.com/events/n40243
 * OpenID to OpenID Connect Migration (Dec 2014) : http://wso2.com/library/webinars/2014/12/openid-to-openid-connect-migration/
 * Security in Cloud (Nov 2014) : http://wso2.com/library/webinars/2014/11/security-in-the-cloud/
 * The Evolution of Enterprise Identity (July 2014) : http://wso2.com/library/webinars/2014/07/the-evolution-of-enterprise-identity/
