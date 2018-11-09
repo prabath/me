@@ -65,8 +65,8 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 ## Workshops (Speaker)
 
 * [Securing Microservices](https://wso2.com/events/workshops/2018-october-orlando-securing-microservices/) (Oct 2018, Orlando)
-* Identity Federation and Strong Authentication with WSO2 Identity Server (July 2018, Virginia) : https://wso2.com/events/workshops/2018-july-virginia-identity-federation-and-strong-authentication-with-wso2-identity-server/
-* Building a customer-centric enterprise with CIAM (June 2018, New York) : https://wso2.com/events/workshops/2018-june-newyork-building-a-customer-centric-enterprise-with-ciam/
+* [Identity Federation and Strong Authentication with WSO2 Identity Server](https://wso2.com/events/workshops/2018-july-virginia-identity-federation-and-strong-authentication-with-wso2-identity-server/) (July 2018, Virginia)
+* [Building a customer-centric enterprise with CIAM]( https://wso2.com/events/workshops/2018-june-newyork-building-a-customer-centric-enterprise-with-ciam/) (June 2018, New York)
 * Building a customer-centric enterprise with CIAM (June 2018, Mountain View) : https://wso2.com/events/workshops/2018-june-mountainview-building-a-customer-centric-enterprise-with-ciam/
 * API Security Best Practices & Guidelines (June 2018, Singapore) : https://wso2.com/events/workshops/2018-june-singapore-api-security-best-practices-guidelines/
 * API Security Best Practices & Guidelines (May 2018, Chicago) : https://wso2.com/events/workshops/2018-may-api-security-best-practices-and-guidelines/ 
