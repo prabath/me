@@ -163,7 +163,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 * [Multi-tenant SOA Middleware for Cloud Computing](https://www.computer.org/csdl/proceedings-article/2010/cloud/4130a458/12OmNqIzhbF) (2010)
 
-## Blogs (Blogger)
+## Blogs (Author)
 
 * [What Went Wrong? Facebook is in Crisis Again!](https://medium.facilelogin.com/what-went-wrong-d09b0dc24de4)
 * [Build Your Own Blockchain](https://medium.facilelogin.com/build-your-own-blockchain-b8eaeea2f891)
@@ -211,3 +211,6 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * [WTF?: What's the Future and Why It's Up to Us](https://www.amazon.com/WTF-Whats-Future-Why-Its/dp/0062565710), Tim O'Reilly
 * [The New Kingmakers: How Developers Conquered the World](https://www.amazon.com/gp/product/1449356346), Stephen O'Grady
 * [Connecting the Dots: Lessons for Leadership in a Startup World](https://www.amazon.com/gp/product/031648654X), John Chambers
+* [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/gp/product/150112174X), Jake Knapp
+* [Nonviolent Communication](https://www.amazon.com/gp/product/189200528X), Marshall B. Rosenberg
+* [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/gp/product/0525536221), John Doerr
