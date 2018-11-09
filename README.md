@@ -24,11 +24,6 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 ## Boooks (Author)
 
-<p align="right">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/418ma-gW8gL._SX403_BO1,204,203,200_.jpg" hieght="120" width="60" align="right" ></p>
-   <p align="right">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/41XwllbbeYL._SX348_BO1,204,203,200_.jpg" hieght="120" width="60" align="right" ></p>
-  
 * Microservices Security in Action (2019, Manning)
 * Adavanced API Security 2nd Edition (2019, Apress)
 * [Microservices for the Enterprise](https://www.amazon.com/gp/product/1484238575) (2018, Apress)
