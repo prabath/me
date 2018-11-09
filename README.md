@@ -196,4 +196,8 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * [Borderless Identity ~ Managing Identity in a Complex World](https://medium.facilelogin.com/borderless-identity-managing-identity-in-a-complex-world-998c68f351de)
 * [Securing the Insecure](https://medium.facilelogin.com/securing-the-insecure-e96310ccc386)
 
+## Books (Loved Reading)
 
+* [Empathy (HBR Emotional Intelligence Series)](https://www.amazon.com/gp/product/1633693252), Daniel Goleman, Annie McKee, Adam Waytz
+* [Exploding Data: Reclaiming Our Cyber Security in the Digital Age](https://www.amazon.com/Exploding-Data-Reclaiming-Security-Digital/dp/0802127932/), Michael Chertoff
+* [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/), Marty Cagan
