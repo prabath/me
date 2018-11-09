@@ -95,7 +95,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * [WSO2 Integration Platform Discovery](http://wso2.com/events/workshops/2013-october-auckland-wso2-integration-platform-discovery-workshop/) (Oct 2013, New Zealand)
 * [WSO2 Integration Platform Discovery](http://wso2.com/events/workshops/2012-november-the-hague-wso2-integration-platform-discovery-workshop/) (Nov 2012, Netherlands)
 * [WSO2 Integration Platform Discovery](http://wso2.com/events/workshops/2012-september-duabi-wso2-integration-platform-discovery-workshop/) (Sept 2012, Dubai)
-* [Carbon and Stratos: Understanding Cloud-enabled Modular Middleware](http://wso2.com/events/workshops/2011-november-vancouver-carbon-stratos-workshop/) (Nov 2011, Canada) : 
+* [Carbon and Stratos: Understanding Cloud-enabled Modular Middleware](http://wso2.com/events/workshops/2011-november-vancouver-carbon-stratos-workshop/) (Nov 2011, Canada)
 * [Security in the Cloud](http://lanyrd.com/2011/wso2-security-in-the-cloud-workshop-2/) (Oct 2011, New York)
 * [Security in the Cloud](http://wso2.com/events/workshops/2011-august-palo-alto-security-in-the-cloud-workshop/) (Aug 2011, Palo Alto)
 * [SOA Security and Identity](http://wso2.com/events/workshops/2011-march-usa-security-workshop/) (March 2011, Dallas)
