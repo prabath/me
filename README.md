@@ -52,6 +52,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * Apache Roadshow Asia (2009, Colombo)
 * Google Summer of Code Mentor Summit (2016, Mountain View)
 * Google Developer Group (GDG) DevFest (2014, Colombo)
+* FOSS Security, Sri Lanka CERT (2011, Colombo)
 
 ## Conferences (Attendee)
 
