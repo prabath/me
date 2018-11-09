@@ -165,12 +165,16 @@
 
 ## Meetups (Founder)
 
-* Silicon Valley IAM Meetup : https://www.meetup.com/Silicon-Valley-IAM-User-Group/
+* Silicon Valley IAM User Group : https://www.meetup.com/Silicon-Valley-IAM-User-Group/
 * JAVA Colombo : https://www.meetup.com/java-colombo/
 
 ## Meetups (Speaker)
 
 * Microservice Security Landscape (Oct 2018) : Microservices, APIs and Integration - Silicon Valley Meetup
+* Securing Microservice (May 2018) : WSO2 Sri Lanka Meetup
 * General Data Protection Regulation for Identity Architects (Nov 2017) : GDPR Meetup - London
-* 
+* API Security Patterns and Practices (Nov 2015) : Silicon Valley IAM User Group
+* The Evolution of Internet Identity (April 2015) : Silicon Valley IAM User Group
+* Deep Dive into Java Security Architecture (July 2014) : JAVA Colombo
+
 
