@@ -56,7 +56,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * Google Summer of Code Mentor Summit (2016, Mountain View)
 * Google Developer Group (GDG) DevFest (2014, Colombo)
 * FOSS Security, Sri Lanka CERT (2011, Colombo)
-* OSCON (2009, San Jose)
+* OSCON ([2009](https://conferences.oreilly.com/oscon/oscon2009/public/schedule/detail/10436), San Jose)
 
 ## Conferences (Attendee)
 
