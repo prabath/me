@@ -137,6 +137,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * Microservice Security Landscape (Oct 2018) : Microservices, APIs and Integration - Silicon Valley Meetup
 * Securing Microservice (May 2018) : WSO2 Sri Lanka Meetup
 * General Data Protection Regulation for Identity Architects (Nov 2017) : GDPR Meetup - London
+* Identity on Blockchain (July 2017) : Computer Society of Sri Lanka (CSSL) Tech Talk
 * API Security Patterns and Practices (Nov 2015) : Silicon Valley IAM User Group
 * The Evolution of Internet Identity (April 2015) : Silicon Valley IAM User Group
 * Deep Dive into Java Security Architecture (July 2014) : JAVA Colombo
