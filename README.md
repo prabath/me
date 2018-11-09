@@ -168,4 +168,9 @@
 * Silicon Valley IAM Meetup : https://www.meetup.com/Silicon-Valley-IAM-User-Group/
 * JAVA Colombo : https://www.meetup.com/java-colombo/
 
+## Meetups (Speaker)
+
+* Microservice Security Landscape (Oct 2018) : Microservices, APIs and Integration - Silicon Valley Meetup
+* General Data Protection Regulation for Identity Architects (Nov 2017) : GDPR Meetup - London
+* 
 
