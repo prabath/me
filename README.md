@@ -152,6 +152,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * Best Practices in Building an API Security Ecosystem : SLAC National Accelerator Laboratory, Stanford University 
 * [The Evolution of Internet Identity](https://www.meetup.com/Silicon-Valley-IAM-User-Group/events/221169499/) (April 2015) : Silicon Valley IAM User Group
 * [Deep Dive into Java Security Architecture](https://www.meetup.com/java-colombo/events/171425172/) (July 2014) : JAVA Colombo
+* OAuth 2.0 and XACML (June 2012) : IAM Working Group and COE Concall at the Bank of America
 
 ## Whitepapers (Author)
 
