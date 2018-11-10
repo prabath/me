@@ -168,7 +168,8 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 ## Standards/RFCs (Acknowledged)
 
-* [RFC 7662](https://tools.ietf.org/html/rfc7662) : OAuth 2.0 Token Introspection
+* [IETF RFC 7662](https://tools.ietf.org/html/rfc7662) : OAuth 2.0 Token Introspection
+* [OASIS Identity Metasystem Interoperability](http://docs.oasis-open.org/imi/identity/v1.0/identity.html)
 
 ## Blogs (Author)
 
