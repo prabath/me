@@ -79,6 +79,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * [Identity Management for Identity Architects](https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/) (Jan 2018, Colombo)
 * [Identity Management for Web App Developers](https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/) (Jan 2018, Colombo)
 * [OAuth 2.0 for Web and Native (Mobile) App Developers](https://wso2.com/events/workshops/colombo-workshops-identity-and-access-management/) (Jan 2018, Colombo)
+* [Identity Management for Identity Architects](https://wso2.com/custom-workshops-identity-and-access-management) (Nov 2017, Brentwood)
 * [Identity Management for Identity Architects](https://wso2.com/custom-workshops-identity-and-access-management) (Oct 2017, Salt Lake City, Utah)
 * [Identity Management for Web App Developers](https://wso2.com/custom-workshops-identity-and-access-management) (Oct 2017, Salt Lake City, Utah)
 * [Identity and Access Management in the Era of Digital Transformation](https://wso2.com/events/workshops/2017-july-colombo-Identity-and-Access-Management-in-the-Era-of-Digital-Transformation/) (July 2017, Colombo)
