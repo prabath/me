@@ -62,6 +62,10 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 * Gartner Identity and Access Management Summit (2018, Las Vegas)
 * Internet Identity Workshop (Oct 2017, Mountain View | May 2017, Mountain View | April 2016, Mountain View | April 2015, Mountain View )
+* ID2020 Summit (June 2017, United Nations, New York)
+* CERT Vendor Meeting (Feb 2017, San Francisco | Feb 2016, San Francisco | April 2015, San Francisco)
+* Structure Security Conference (Sept 2016, San Francisco)
+* TiECon (May 2015, Santa Clara)
 * Cloud Identity Summit (2011, Colorado)
 
 ## Workshops (Speaker)
