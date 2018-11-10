@@ -68,7 +68,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * Structure Security Conference (Sept 2016, San Francisco)
 * TiECon (May 2015, Santa Clara)
 * Strata + Hadoop World (Feb 2015, San Jose)
-* Cloud Identity Summit (2011, Colorado)
+* Cloud Identity Summit (July 2011, Colorado)
 
 ## Workshops (Speaker)
 
