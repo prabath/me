@@ -166,6 +166,10 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 * [Multi-tenant SOA Middleware for Cloud Computing](https://www.computer.org/csdl/proceedings-article/2010/cloud/4130a458/12OmNqIzhbF) (2010)
 
+## Standards/RFCs (Acknowledged)
+
+* [RFC 7662](https://tools.ietf.org/html/rfc7662) : OAuth 2.0 Token Introspection
+
 ## Blogs (Author)
 
 * [What Went Wrong? Facebook is in Crisis Again!](https://medium.facilelogin.com/what-went-wrong-d09b0dc24de4)
