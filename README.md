@@ -216,7 +216,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * [Borderless Identity ~ Managing Identity in a Complex World](https://medium.facilelogin.com/borderless-identity-managing-identity-in-a-complex-world-998c68f351de)
 * [Securing the Insecure](https://medium.facilelogin.com/securing-the-insecure-e96310ccc386)
 
-## Awards (Not About Me, But the Team Behind Me)
+## Awards (Carries My Name, But it's the Team Behind Me)
 
 * Outstanding Contribution Award, 2017, WSO2 
 * Most Valuable Person (MVP), 2016, WSO2
