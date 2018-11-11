@@ -218,8 +218,8 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 
 ## Awards
 
-* Most Valuable Person (MVP), 2017, WSO2
-* Outstanding Contribution Award, 2016, WSO2 
+* Outstanding Contribution Award, 2017, WSO2 
+* Most Valuable Person (MVP), 2016, WSO2
 * Outstanding Contribution Award, 2015, WSO2 
 * Outstanding Contribution Award, 2014, WSO2 
 * Outstanding Contribution Award, 2013, WSO2 
