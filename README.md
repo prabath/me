@@ -232,3 +232,18 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * [The Power of Customer Misbehavior: Drive Growth and Innovation by Learning from Your Customers](https://www.amazon.com/gp/product/1137348917), Kalle Lyytinen
 * [Fail Fast, Fail Often: How Losing Can Help You Win](https://www.amazon.com/gp/product/0399166254), Ryan Babineaux
 * [Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too](https://www.amazon.com/gp/product/0062674676), Gary Vaynerchuk
+
+## Awards
+
+* Most Valuable Person (MVP) 2017 - WSO2
+* Outstanding Contribution Award 2016 - WSO2 
+* Outstanding Contribution Award 2015 - WSO2 
+* Outstanding Contribution Award 2014 - WSO2 
+* Outstanding Contribution Award 2013 - WSO2 
+* Outstanding Contribution Award 2012 – WSO2
+* Outstanding Contribution Award 2011 – WSO2
+* Customer Delight Award - 2010 - WSO2
+* Outstanding Contribution Award 2009 – WSO2
+* Outstanding Contribution Award 2008 – WSO2
+* Best Blogger award Nov/2008 – WSO2
+* Best Tech Evangelist award Sept/2008 – WSO2
