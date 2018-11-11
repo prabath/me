@@ -229,7 +229,7 @@ Prabath received the Outstanding Contribution Award consecutively for 9 years, s
 * Outstanding Contribution Award, 2009, WSO2
 * Outstanding Contribution Award, 2008, WSO2
 * Best Blogger Award, Nov/2008, WSO2
-* Best Tech Evangelist, Award Sept/2008, WSO2
+* Best Tech Evangelist Award, Sept/2008, WSO2
 
 ## Books (Loved Reading)
 
