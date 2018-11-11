@@ -245,3 +245,4 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * [The Power of Customer Misbehavior: Drive Growth and Innovation by Learning from Your Customers](https://www.amazon.com/gp/product/1137348917), Kalle Lyytinen
 * [Fail Fast, Fail Often: How Losing Can Help You Win](https://www.amazon.com/gp/product/0399166254), Ryan Babineaux
 * [Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too](https://www.amazon.com/gp/product/0062674676), Gary Vaynerchuk
+* [Dear Founder: Letters of Advice for Anyone Who Leads, Manages, or Wants to Start a Business](https://www.amazon.com/gp/product/1250195640), Maynard Webb, Carlye Adler
