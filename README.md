@@ -148,7 +148,7 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 ## Meetups / Community Events (Speaker)
 
-* PSD2 Security Pattersns (Nov 2018), Societe Generale Open Banking Community Event, Paris, France
+* PSD2 Security Patterns (Nov 2018), Societe Generale Open Banking Community Event, Paris, France
 * [Microservice Security Landscape](https://www.meetup.com/microservices-apis-integration-meetup/events/255064813/) (Oct 2018) : Microservices, APIs and Integration - Silicon Valley Meetup
 * OAuth 2.0 Security Landscape (Aug 2018) : Defense Industrial Base Technical Architecture Working Group, Boeing
 * [Securing Microservice](https://www.meetup.com/wso2srilanka/events/250713359/) (May 2018) : WSO2 Sri Lanka Meetup
