@@ -249,7 +249,7 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * [Dear Founder: Letters of Advice for Anyone Who Leads, Manages, or Wants to Start a Business](https://www.amazon.com/gp/product/1250195640), Maynard Webb, Carlye Adler
 * [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021), Ray Dalio
 
-## Travel (Places Visited)
+## Travel (Places Visitedm, Mostly on Business)
 
 * United States (California, Virginia, Washington, Washington DC, Utah)
 * Englad (London, Cambridge)
