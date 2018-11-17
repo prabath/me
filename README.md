@@ -252,18 +252,20 @@ As a technology evangelist, Prabath has published five books, including Advanced
 ## Travel (Places Visitedm, Mostly on Business)
 
 * United States (California, Virginia, Washington, Washington DC, Utah)
+* Canada (Vancouver, Toronto)
+* Brazil
 * Englad (London, Cambridge)
 * Netherlands (Amsterdam)
 * Germany (Munich)
 * Spain (Madrid)
+* France (Paris)
+* New Zealand
 * China (Guangzhou)
 * Thailand
 * Malaysia
 * Singapore
-* UAE (Dubai)
 * India
-* France (Paris)
-* Canada (Vancouver, Toronto)
-* Brazil
-* New Zealand
 * Malidives
+* UAE (Dubai)
+* Sadui Arabia (Riyadh)
+* Sri Lanka (Everywhere)
