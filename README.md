@@ -254,18 +254,18 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * United States (California, Virginia, Washington, Washington DC, Utah, Navada, New Jersy, Conneticut, Illinois, Idaho, Akansas, Texax, Arizon, Maine, New York, Florida, Colorado, Massachusetts, North Carolina, Tenesses, Nebraska, Idaho)
 * Canada (Vancouver, Toronto, Montreal)
 * Brazil (Rio, Brasilia, Sao Paulo)
-* Englad (London, Cambridge)
+* England (London, Cambridge)
 * Netherlands (Amsterdam)
 * Germany (Munich)
 * Spain (Madrid)
 * France (Paris)
-* New Zealand
+* New Zealand (Auckland)
 * China (Guangzhou)
-* Thailand
-* Malaysia
-* Singapore
-* India
-* Malidives
+* Thailand (Bangkok)
+* Malaysia (Kuala Lumpur)
+* Singapore (Singapore)
+* India (Bangalore)
+* Malidives (Male)
 * UAE (Dubai)
 * Sadui Arabia (Riyadh)
 * Sri Lanka (Everywhere)
