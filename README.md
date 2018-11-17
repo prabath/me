@@ -257,7 +257,7 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * England (London, Cambridge)
 * Netherlands (Amsterdam)
 * Germany (Munich)
-* Spain (Madrid)
+* Spain (Barcelona)
 * France (Paris)
 * New Zealand (Auckland)
 * China (Guangzhou)
