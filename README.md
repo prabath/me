@@ -38,7 +38,7 @@ As a technology evangelist, Prabath has published five books, including Advanced
 ## Conferences (Speaker)
 
 <p align="right">
-  <img src="http://www.joffa.com.au/img/column_illustrations/joffa.png" width="200" height="260" align="right" >
+  <img src="https://us.123rf.com/450wm/seamartini/seamartini1607/seamartini160700232/59602307-cartoon-businessman-or-politician-in-suit-at-tribune-with-microphones-making-a-speech-orator-or-narr.jpg?ver=6" width="200" height="260" align="right" >
 </p>
 
 * Identiverse ([2018](https://www.youtube.com/watch?v=LNihgqvOqOk), Boston)
