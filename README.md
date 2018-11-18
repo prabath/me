@@ -63,7 +63,7 @@ As a technology evangelist, Prabath has published five books, including Advanced
 ## Conferences (Attendee)
 
 <p align="right">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASfgPcMuFbtMGUYv4GY6YOXx4MkUF6N93FRSc2VmOw6CHJCHH" width="300" height="360" align="right" >
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASfgPcMuFbtMGUYv4GY6YOXx4MkUF6N93FRSc2VmOw6CHJCHH"  align="right" >
 </p>
 
 * Gartner Identity and Access Management Summit (2018, Las Vegas)
