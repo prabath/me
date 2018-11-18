@@ -265,6 +265,10 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 ## Books (Loved Reading)
 
+<p align="right">
+  <img src="https://images.all-free-download.com/images/graphiclarge/library_background_man_reading_book_icon_colored_cartoon_6833774.jpg" width="260" height="300" align="right" >
+</p>
+
 * [Empathy (HBR Emotional Intelligence Series)](https://www.amazon.com/gp/product/1633693252), Daniel Goleman, Annie McKee, Adam Waytz
 * [Exploding Data: Reclaiming Our Cyber Security in the Digital Age](https://www.amazon.com/Exploding-Data-Reclaiming-Security-Digital/dp/0802127932/), Michael Chertoff
 * [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/), Marty Cagan
