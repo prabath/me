@@ -167,6 +167,10 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * [Silicon Valley IAM User Group](https://www.meetup.com/Silicon-Valley-IAM-User-Group/)
 * [JAVA Colombo](https://www.meetup.com/java-colombo/)
 
+<p align="right">
+  <img src="https://www.kiss-stuttgart.de/wp-content/uploads/2016/11/gespraechsrunde.jpg" width="260" height="300" align="right" >
+</p>
+
 ## Meetups / Community Events (Speaker)
 
 * PSD2 Security Patterns (Nov 2018), Societe Generale Open Banking Community Event, Paris, France
