@@ -204,6 +204,10 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 ## Blogs (Author)
 
+<p align="right">
+  <img src="http://www.hispanicgrants.net/wp-content/uploads/2010/07/writing-essay.jpg" width="240" height="260" align="right" >
+</p>
+
 * [What Went Wrong? Facebook is in Crisis Again!](https://medium.facilelogin.com/what-went-wrong-d09b0dc24de4)
 * [Build Your Own Blockchain](https://medium.facilelogin.com/build-your-own-blockchain-b8eaeea2f891)
 * [51% Attack!](https://medium.facilelogin.com/51-attack-a72d26786b23)
