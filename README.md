@@ -1,10 +1,10 @@
-<p align="right">
-  <img src="http://u1.photofunia.com/2/results/d/i/diP9BahSeXu3lREe46S6OQ_r.jpg" width="260" height="300" align="right" >
-</p>
-
 ## Prabath Siriwardena
 
 Prabath Siriwardena is an identity evangelist, author, blogger and the Vice President IAM & Security Architecture at WSO2, with more than 11 years of industry experience in designing and building critical Identity and Access Management infrastructure for global enterprises, including many Fortune 100/500 companies. He spent most of his time in last 11 years with the WSO2 IAM team, in leading the development of the open source WSO2 Identity Server, which is used by hundreds of top companies and more than 500 Universities globally, and also within the open source communities. WSO2 Identity Server is one of the top leading open source access management products. It serves more than 75 million identities globally and handles more than 1 million authentication requests on daily basis.
+
+<p align="left">
+  <img src="http://u1.photofunia.com/2/results/d/i/diP9BahSeXu3lREe46S6OQ_r.jpg" width="260" height="300" align="left" >
+</p>
 
 As a technology evangelist, Prabath has published five books, including Advanced API Security (Apress) and Microservices for the Enterprise (Apress). He blogs on various topics from blockchain, PSD2, GDPR, IAM to microservices security. He also runs a YouTube channel. Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), European Identity Conference (Keynote 2015), Consumer Identity World USA (Keynote 2018), API World (Advisory Board 2018), API Strategy & Practice Con, QCon, OSCON, LASCON, Cloud Security Alliance, Block World and WSO2Con (Keynote 2018) - and travelled the world conducting workshops/meetups to evangelize IAM communities. He is also the founder of the Silicon Valley IAM User Group, which is the largest IAM meetup in the San Francisco Bay Area.
 
