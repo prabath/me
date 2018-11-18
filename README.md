@@ -33,7 +33,7 @@ As a technology evangelist, Prabath has published five books, including Advanced
 ## Conferences (Speaker)
 
 <p align="right">
-  <img src="https://www.educima.com/dibujo-para-colorear-orador-p22860.jpg" width="300" height="420" align="right" >
+  <img src="https://www.educima.com/dibujo-para-colorear-orador-p22860.jpg" width="300" height="360" align="right" >
 </p>
 
 * Identiverse ([2018](https://www.youtube.com/watch?v=LNihgqvOqOk), Boston)
