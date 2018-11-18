@@ -217,6 +217,10 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 ## Awards (Carries My Name, But it's the Team Behind Me)
 
+<p align="right">
+  <img src="https://us.123rf.com/450wm/ahasoft2000/ahasoft20001702/ahasoft2000170207185/71920623-award-icon-vector-illustration-style-is-flat-iconic-symbol-black-color-transparent-background-design.jpg?ver=6" width="420" height="300" align="right" >
+</p>
+
 * Outstanding Contribution Award, 2017, WSO2 
 * Most Valuable Person (MVP), 2016, WSO2
 * Outstanding Contribution Award, 2015, WSO2 
