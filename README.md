@@ -64,11 +64,11 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * FOSS Security, Sri Lanka CERT (2011, Colombo)
 * OSCON ([2009](https://conferences.oreilly.com/oscon/oscon2009/public/schedule/detail/10436), San Jose)
 
-## Conferences (Attendee)
-
 <p align="right">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASfgPcMuFbtMGUYv4GY6YOXx4MkUF6N93FRSc2VmOw6CHJCHH"  align="right" >
 </p>
+
+## Conferences (Attendee)
 
 * Gartner Identity and Access Management Summit (2018, Las Vegas)
 * Internet Identity Workshop (Oct 2017, Mountain View | May 2017, Mountain View | April 2016, Mountain View | April 2015, Mountain View )
