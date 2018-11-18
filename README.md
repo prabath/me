@@ -83,6 +83,10 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 ## Workshops (Speaker)
 
+<p align="right">
+  <img src="https://cdn5.vectorstock.com/i/1000x1000/60/29/business-meeting-cartoon-concept-vector-15956029.jpg" width="200" height="260" align="right" >
+</p>
+
 * [Securing Microservices](https://wso2.com/events/workshops/2018-october-orlando-securing-microservices/) (Oct 2018, Orlando)
 * [Identity Federation and Strong Authentication with WSO2 Identity Server](https://wso2.com/events/workshops/2018-july-virginia-identity-federation-and-strong-authentication-with-wso2-identity-server/) (July 2018, Virginia)
 * [Building a customer-centric enterprise with CIAM](https://wso2.com/events/workshops/2018-june-newyork-building-a-customer-centric-enterprise-with-ciam/) (June 2018, New York)
