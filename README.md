@@ -84,7 +84,7 @@ As a technology evangelist, Prabath has published five books, including Advanced
 ## Workshops (Speaker)
 
 <p align="right">
-  <img src="https://education.cu-portland.edu/wp-content/uploads/sites/33/2016/07/Summer-Workshop-Series-Cross-curricular-Comic-and-Graphic-Novel-Writing.jpg" width="230" height="260" align="right" >
+  <img src="https://nrcpublicblog.files.wordpress.com/2012/09/roundtable1.jpg" width="230" height="260" align="right" >
 </p>
 
 * [Securing Microservices](https://wso2.com/events/workshops/2018-october-orlando-securing-microservices/) (Oct 2018, Orlando)
