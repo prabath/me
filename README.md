@@ -36,6 +36,10 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 ## Conferences (Speaker)
 
+<p align="right">
+  <img src="https://www.educima.com/dibujo-para-colorear-orador-p22860.jpg" width="260" height="300" align="right" >
+</p>
+
 * Identiverse ([2018](https://www.youtube.com/watch?v=LNihgqvOqOk), Boston)
 * RSA Conference ([2018](https://www.youtube.com/watch?v=FBFEuP5ZVj0), San Francisco)
 * Cloud Identity Summit ([2017](https://www.youtube.com/watch?v=lXX1OhY4knM), Chicago | [2016](https://www.crunchbase.com/event/cloud-identity-summit-2016-201666), New Orleans)
@@ -44,10 +48,6 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * LASCON ([2018](https://lascon2018.sched.com/event/GqEp/microservices-security-landscape), Austin | [2016](https://www.youtube.com/watch?v=u3p85tO6LbE) Austin)
 * GSMA Mobile World Congres ([2017](https://www.gsma.com/identity/mwca-mobile-connect-workshop), San Francisco)
 * Consumer Identity World ([2018](https://www.youtube.com/watch?v=4JdWe02SABU), Seattle (**Keynote**))
-
-<p align="right">
-  <img src="https://www.educima.com/dibujo-para-colorear-orador-p22860.jpg" width="300" height="360" align="right" >
-</p>
 * Internet Identity Workshop ([Oct 2016](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXIII_Book_of_Proceedings.pdf), Mountain View | [Oct 2015](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXI_Book_of_Proceedings.pdf), Mountain View)
 * Global Software Architecture Conference ([2017](http://globalbigdataconference.com/santa-clara/global-software-architecture-conference-86/speaker-details/prabath-siriwardena-51647.html), Santa Clara)
 * Block World ([2018](http://block-world.com/conference/speakers/), San Jose)
