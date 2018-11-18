@@ -32,6 +32,10 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 ## Conferences (Speaker)
 
+<p align="right">
+  <img src="https://www.educima.com/dibujo-para-colorear-orador-p22860.jpg" align="right" >
+</p>
+
 * Identiverse ([2018](https://www.youtube.com/watch?v=LNihgqvOqOk), Boston)
 * RSA Conference ([2018](https://www.youtube.com/watch?v=FBFEuP5ZVj0), San Francisco)
 * Cloud Identity Summit ([2017](https://www.youtube.com/watch?v=lXX1OhY4knM), Chicago | [2016](https://www.crunchbase.com/event/cloud-identity-summit-2016-201666), New Orleans)
