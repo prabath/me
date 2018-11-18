@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/81hPYZw8m+L._US230_.jpg" align="right" >
+  <img src="http://u1.photofunia.com/2/results/d/i/diP9BahSeXu3lREe46S6OQ_r.jpg" align="right" >
 </p>
 
 ## Prabath Siriwardena
