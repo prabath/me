@@ -251,6 +251,10 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 ## Travel (Places Visited, Mostly on Business)
 
+<p align="right">
+  <img src="http://besttabletfor.me/wp-content/uploads/map-with-countries-and-capitals-beijing-on-world.jpg" align="right" >
+</p>
+
 * United States (California, Virginia, Washington, Washington DC, Utah, Navada, New Jersy, Conneticut, Illinois, Idaho, Akansas, Texax, Arizona, Maine, New York, Florida, Colorado, Massachusetts, North Carolina, Tenesses, Nebraska, Idaho, Louisiana, Michigen, Missouri)
 * Canada (Vancouver, Toronto, Montreal)
 * Brazil (Rio, Brasilia, Sao Paulo)
