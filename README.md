@@ -132,6 +132,10 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 ## Webinars (Speaker)
 
+<p align="right">
+  <img src="https://cdn.pixabay.com/photo/2017/09/23/14/55/sing-2779106_960_720.jpg" width="200" height="260" align="right" >
+</p>
+
 * [How Blockchain Facilitates Self-Sovereign Identity](https://www.brighttalk.com/webcast/16693/310903/how-blockchain-facilitates-self-sovereign-identity) (April, 2018)
 * [Identity and Access Management in the Era of Digital Transformation](https://wso2.com/library/webinars/2017/03/identity-and-access-management-in-the-era-of-digital-transformation/) (March, 2017)
 * [Securing Access to SaaS Apps with GSMA Mobile Connect](https://wso2.com/library/webinars/2016/11/securing-access-to-saas-apps-with-gsma-mobile-connect/) (Nov, 2016)
