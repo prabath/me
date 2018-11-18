@@ -252,7 +252,7 @@ As a technology evangelist, Prabath has published five books, including Advanced
 ## Travel (Places Visited, Mostly on Business)
 
 <p align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/World_map_-_low_resolution.svg" align="right" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/World_map_-_low_resolution.svg" width="420" height="300" align="right" >
 </p>
 
 * United States (California, Virginia, Washington, Washington DC, Utah, Navada, New Jersy, Conneticut, Illinois, Idaho, Akansas, Texax, Arizona, Maine, New York, Florida, Colorado, Massachusetts, North Carolina, Tenesses, Nebraska, Idaho, Louisiana, Michigen, Missouri)
