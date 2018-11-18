@@ -266,7 +266,7 @@ As a technology evangelist, Prabath has published five books, including Advanced
 ## Books (Loved Reading)
 
 <p align="right">
-  <img src="https://images.all-free-download.com/images/graphiclarge/library_background_man_reading_book_icon_colored_cartoon_6833774.jpg" width="260" height="300" align="right" >
+  <img src="https://us.123rf.com/450wm/rastudio/rastudio1602/rastudio160200597/52001609-an-asian-man-reading-a-book-vector-flat-design-illustration-isolated-on-white-background-.jpg?ver=6" width="260" height="300" align="right" >
 </p>
 
 * [Empathy (HBR Emotional Intelligence Series)](https://www.amazon.com/gp/product/1633693252), Daniel Goleman, Annie McKee, Adam Waytz
