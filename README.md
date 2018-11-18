@@ -84,7 +84,7 @@ As a technology evangelist, Prabath has published five books, including Advanced
 ## Workshops (Speaker)
 
 <p align="right">
-  <img src="https://education.cu-portland.edu/wp-content/uploads/sites/33/2016/07/Summer-Workshop-Series-Cross-curricular-Comic-and-Graphic-Novel-Writing.jpg" width="200" height="260" align="right" >
+  <img src="https://education.cu-portland.edu/wp-content/uploads/sites/33/2016/07/Summer-Workshop-Series-Cross-curricular-Comic-and-Graphic-Novel-Writing.jpg" width="230" height="260" align="right" >
 </p>
 
 * [Securing Microservices](https://wso2.com/events/workshops/2018-october-orlando-securing-microservices/) (Oct 2018, Orlando)
@@ -133,7 +133,7 @@ As a technology evangelist, Prabath has published five books, including Advanced
 ## Webinars (Speaker)
 
 <p align="right">
-  <img src="https://cdn.pixabay.com/photo/2017/09/23/14/55/sing-2779106_960_720.jpg" width="200" height="260" align="right" >
+  <img src="https://cdn.pixabay.com/photo/2017/09/23/14/55/sing-2779106_960_720.jpg" width="240" height="260" align="right" >
 </p>
 
 * [How Blockchain Facilitates Self-Sovereign Identity](https://www.brighttalk.com/webcast/16693/310903/how-blockchain-facilitates-self-sovereign-identity) (April, 2018)
