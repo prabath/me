@@ -21,7 +21,7 @@ As a technology evangelist, Prabath has published five books, including Advanced
 **Quora:** https://www.quora.com/profile/Prabath-Siriwardena
 
 <p align="right">
-  <img src="https://png2.kisspng.com/20180127/bzw/kisspng-reading-book-writing-test-student-5a6c1602a52d78.7200107315170329626766.png" width="300" height="360" align="right" >
+  <img src="https://png2.kisspng.com/20180127/bzw/kisspng-reading-book-writing-test-student-5a6c1602a52d78.7200107315170329626766.png" width="260" height="300" align="right" >
 </p>
 
 ## Boooks (Author)
@@ -44,13 +44,12 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * LASCON ([2018](https://lascon2018.sched.com/event/GqEp/microservices-security-landscape), Austin | [2016](https://www.youtube.com/watch?v=u3p85tO6LbE) Austin)
 * GSMA Mobile World Congres ([2017](https://www.gsma.com/identity/mwca-mobile-connect-workshop), San Francisco)
 * Consumer Identity World ([2018](https://www.youtube.com/watch?v=4JdWe02SABU), Seattle (**Keynote**))
-* Internet Identity Workshop ([Oct 2016](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXIII_Book_of_Proceedings.pdf), Mountain View | [Oct 2015](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXI_Book_of_Proceedings.pdf), Mountain View)
-* Global Software Architecture Conference ([2017](http://globalbigdataconference.com/santa-clara/global-software-architecture-conference-86/speaker-details/prabath-siriwardena-51647.html), Santa Clara)
 
 <p align="right">
   <img src="https://www.educima.com/dibujo-para-colorear-orador-p22860.jpg" width="300" height="360" align="right" >
 </p>
-
+* Internet Identity Workshop ([Oct 2016](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXIII_Book_of_Proceedings.pdf), Mountain View | [Oct 2015](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXI_Book_of_Proceedings.pdf), Mountain View)
+* Global Software Architecture Conference ([2017](http://globalbigdataconference.com/santa-clara/global-software-architecture-conference-86/speaker-details/prabath-siriwardena-51647.html), Santa Clara)
 * Block World ([2018](http://block-world.com/conference/speakers/), San Jose)
 * API World ([2018](https://apiworld2018.sched.com/speaker/prabath_siriwardena.1ykpwkxx), San Jose | [2017](https://apiworld2017.sched.com/directory/speakers), San Jose | [2016](https://apiworld2016.sched.com/directory/speakers), San Jose)
 * WSO2Con ([2018](https://eu18.wso2con.com/agenda/), London | [2018](https://www.youtube.com/watch?v=KPGt4yKS7Rc) San Francisco (**Keynote**) | [2017](https://eu17.wso2con.com/agenda/), London | [2017](https://us17.wso2con.com/agenda/), San Francisco | [2015](https://us15.wso2con.com/agenda/) San Francisco | [2015](https://eu15.wso2con.com/agenda/), London| [2014](https://us14.wso2con.com/videos/), San Francisco | [2014](https://eu14.wso2con.com/agenda/), Barcelona | [2014](https://asia14.wso2con.com/agenda/), Colombo| 2013, London | [2013](https://us13.wso2con.com/agenda), San Francisco | 2012, Colombo | [2011](https://wso2.com/events/wso2con-2011-colombo/agenda/), Colombo)
