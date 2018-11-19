@@ -283,7 +283,7 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021), Ray Dalio
 * [Identity is the New Money][https://www.amazon.com/Identity-Money-Perspectives-David-Birch-ebook/dp/B00K86O66A], David Birch
 * [Steve Jobs](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537), Walter Isaacson
-* [Losing My Virginity] (https://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748/), Richard Branson
+* [Losing My Virginity](https://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748/), Richard Branson
 
 ## Travel (Places Visited, Mostly on Business)
 
