@@ -285,6 +285,8 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * [Steve Jobs](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537), Walter Isaacson
 * [Losing My Virginity](https://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748/), Richard Branson
 * [Think Big: Make It Happen in Business and Life](https://www.amazon.com/Think-Big-Make-Happen-Business/dp/0061547840), Donal Trump
+* [The Starfish and the Spider](https://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841836/), Ori Brafman, 
+Rod A. Beckstrom
 
 ## Travel (Places Visited, Mostly on Business)
 
