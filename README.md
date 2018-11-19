@@ -287,6 +287,7 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * [Think Big: Make It Happen in Business and Life](https://www.amazon.com/Think-Big-Make-Happen-Business/dp/0061547840), Donal Trump
 * [The Starfish and the Spider](https://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841836/), Ori Brafman, 
 Rod A. Beckstrom
+* [Platform Revolution: How Networked Markets Are Transforming the Economy - and How to Make Them Work for You](https://www.amazon.com/Platform-Revolution-Networked-Transforming-Economy/dp/0393249131/), Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary
 
 ## Travel (Places Visited, Mostly on Business)
 
