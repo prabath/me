@@ -19,10 +19,6 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 **Instagram:** https://www.instagram.com/prabathsiriwardena/
 
-<p align="right">
-  <img src="https://png2.kisspng.com/20180127/bzw/kisspng-reading-book-writing-test-student-5a6c1602a52d78.7200107315170329626766.png" width="260" height="300" align="right" >
-</p>
-
 ## Boooks (Author)
 
 * Microservices Security in Action (2019, Manning)
@@ -34,10 +30,6 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * [Enterprise Integration with WSO2 ESB](https://www.amazon.com/gp/product/1783280190) (2013, PACKT)
 
 ## Conferences (Speaker)
-
-<p align="right">
-  <img src="https://us.123rf.com/450wm/seamartini/seamartini1607/seamartini160700232/59602307-cartoon-businessman-or-politician-in-suit-at-tribune-with-microphones-making-a-speech-orator-or-narr.jpg?ver=6" width="200" height="260" align="right" >
-</p>
 
 * Identiverse ([2018](https://www.youtube.com/watch?v=LNihgqvOqOk), Boston)
 * RSA Conference ([2018](https://www.youtube.com/watch?v=FBFEuP5ZVj0), San Francisco)
@@ -63,10 +55,6 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * FOSS Security, Sri Lanka CERT (2011, Colombo)
 * OSCON ([2009](https://conferences.oreilly.com/oscon/oscon2009/public/schedule/detail/10436), San Jose)
 
-<p align="right">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASfgPcMuFbtMGUYv4GY6YOXx4MkUF6N93FRSc2VmOw6CHJCHH"  align="right" >
-</p>
-
 ## Conferences (Attendee)
 
 * Gartner Identity and Access Management Summit (2018, Las Vegas)
@@ -80,10 +68,6 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * Cloud Identity Summit (July 2011, Colorado)
 
 ## Workshops (Speaker)
-
-<p align="right">
-  <img src="https://nrcpublicblog.files.wordpress.com/2012/09/roundtable1.jpg" width="230" height="260" align="right" >
-</p>
 
 * [Securing Microservices](https://wso2.com/events/workshops/2018-october-orlando-securing-microservices/) (Oct 2018, Orlando)
 * [Identity Federation and Strong Authentication with WSO2 Identity Server](https://wso2.com/events/workshops/2018-july-virginia-identity-federation-and-strong-authentication-with-wso2-identity-server/) (July 2018, Virginia)
@@ -130,10 +114,6 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 ## Webinars (Speaker)
 
-<p align="right">
-  <img src="https://cdn.pixabay.com/photo/2017/09/23/14/55/sing-2779106_960_720.jpg" width="240" height="260" align="right" >
-</p>
-
 * [How Blockchain Facilitates Self-Sovereign Identity](https://www.brighttalk.com/webcast/16693/310903/how-blockchain-facilitates-self-sovereign-identity) (April, 2018)
 * [Identity and Access Management in the Era of Digital Transformation](https://wso2.com/library/webinars/2017/03/identity-and-access-management-in-the-era-of-digital-transformation/) (March, 2017)
 * [Securing Access to SaaS Apps with GSMA Mobile Connect](https://wso2.com/library/webinars/2016/11/securing-access-to-saas-apps-with-gsma-mobile-connect/) (Nov, 2016)
@@ -164,10 +144,6 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 * [Silicon Valley IAM User Group](https://www.meetup.com/Silicon-Valley-IAM-User-Group/)
 * [JAVA Colombo](https://www.meetup.com/java-colombo/)
-
-<p align="right">
-  <img src="https://www.kiss-stuttgart.de/wp-content/uploads/2016/11/gespraechsrunde.jpg" width="260" height="300" align="right" >
-</p>
 
 ## Meetups / Community Events (Speaker)
 
@@ -201,10 +177,6 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * [OASIS Identity Metasystem Interoperability](http://docs.oasis-open.org/imi/identity/v1.0/identity.html)
 
 ## Blogs (Author)
-
-<p align="right">
-  <img src="http://www.hispanicgrants.net/wp-content/uploads/2010/07/writing-essay.jpg" width="240" height="260" align="right" >
-</p>
 
 * [What Went Wrong? Facebook is in Crisis Again!](https://medium.facilelogin.com/what-went-wrong-d09b0dc24de4)
 * [Build Your Own Blockchain](https://medium.facilelogin.com/build-your-own-blockchain-b8eaeea2f891)
@@ -244,10 +216,6 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 ## Awards (Carries My Name, But it's the Team Behind Me)
 
-<p align="right">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7kv5Uyo25OhwmvxYyzK8cy7kW0cnmqMNdRWjWMXEJuGCdBuKTYg" align="right" >
-</p>
-
 * Outstanding Contribution Award, 2017, WSO2 
 * Most Valuable Person (MVP), 2016, WSO2
 * Outstanding Contribution Award, 2015, WSO2 
@@ -262,10 +230,6 @@ As a technology evangelist, Prabath has published five books, including Advanced
 * Best Tech Evangelist Award, Sept/2008, WSO2
 
 ## Books (Loved Reading)
-
-<p align="right">
-  <img src="https://us.123rf.com/450wm/rastudio/rastudio1602/rastudio160200597/52001609-an-asian-man-reading-a-book-vector-flat-design-illustration-isolated-on-white-background-.jpg?ver=6" width="260" height="300" align="right" >
-</p>
 
 * [Empathy (HBR Emotional Intelligence Series)](https://www.amazon.com/gp/product/1633693252), Daniel Goleman, Annie McKee, Adam Waytz
 * [Exploding Data: Reclaiming Our Cyber Security in the Digital Age](https://www.amazon.com/Exploding-Data-Reclaiming-Security-Digital/dp/0802127932/), Michael Chertoff
