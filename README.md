@@ -266,7 +266,7 @@ Rod A. Beckstrom
 * Brazil (Rio, Brasilia, Sao Paulo)
 * England (London, Cambridge)
 * Netherlands (Amsterdam)
-* Germany (Munich)
+* Germany (Munich, Stuttgart)
 * Spain (Barcelona)
 * France (Paris)
 * New Zealand (Auckland)
