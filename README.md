@@ -258,10 +258,6 @@ Rod A. Beckstrom
 
 ## Travel (Places Visited, Mostly on Business)
 
-<p align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/World_map_-_low_resolution.svg" width="420" height="300" align="right" >
-</p>
-
 * United States (California, Virginia, Washington, Utah, Nevada, New Jersy, Conneticut, Illinois, Akansas, Texax, Arizona, Maine, New York, Florida, Colorado, Massachusetts, North Carolina, Tenesses, Nebraska, Idaho, Louisiana, Michigen, Missouri, Pennsylvania, Ohio, Georgia, Kentucky)
 * Canada (Vancouver, Toronto, Montreal)
 * Brazil (Rio, Brasilia, Sao Paulo)
