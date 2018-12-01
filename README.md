@@ -258,7 +258,7 @@ Rod A. Beckstrom
 
 ## Travel (Places Visited, Mostly on Business)
 
-* United States (California, Virginia, Washington, Utah, Nevada, New Jersy, Conneticut, Illinois, Akansas, Texax, Arizona, Maine, New York, Florida, Colorado, Massachusetts, North Carolina, Tenesses, Nebraska, Idaho, Louisiana, Michigen, Missouri, Pennsylvania, Ohio, Georgia, Kentucky)
+* United States (California, Virginia, Washington, Utah, Nevada, New Jersy, Conneticut, Illinois, Akansas, Texax, Arizona, Maine, New York, Florida, Colorado, Massachusetts, North Carolina, Tenesses, Nebraska, Idaho, Louisiana, Michigen, Missouri, Pennsylvania, Ohio, Georgia, Kentucky, Wisconsin)
 * Canada (Vancouver, Toronto, Montreal)
 * Brazil (Rio, Brasilia, Sao Paulo)
 * England (London, Cambridge)
