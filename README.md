@@ -275,4 +275,4 @@ Rod A. Beckstrom
 * Malidives (Male)
 * UAE (Dubai)
 * Sadui Arabia (Riyadh)
-* Sri Lanka (Everywhere)
+* Sri Lanka (Almost everywhere)
