@@ -6,19 +6,19 @@ As a technology evangelist, Prabath has published five books, including Advanced
 
 ## How to Find Me?
 
-**LinkedIn:** https://www.linkedin.com/in/prabathsiriwardena/
+* **LinkedIn:** https://www.linkedin.com/in/prabathsiriwardena/
 
-**Twitter:** https://twitter.com/prabath
+* **Twitter:** https://twitter.com/prabath
 
-**Blog:** http://blog.facilelogin.com
+* **Blog:** http://blog.facilelogin.com
 
-**vLog:** http://vlog.facilelogin.com
+* **vLog:** http://vlog.facilelogin.com
 
-**Stack Overflow:** https://stackoverflow.com/users/804637/prabath-siriwardena
+* **Stack Overflow:** https://stackoverflow.com/users/804637/prabath-siriwardena
 
-**Quora:** https://www.quora.com/profile/Prabath-Siriwardena
+* **Quora:** https://www.quora.com/profile/Prabath-Siriwardena
 
-**Instagram:** https://www.instagram.com/prabathsiriwardena/
+* **Instagram:** https://www.instagram.com/prabathsiriwardena/
 
 ## Boooks (Author)
 
