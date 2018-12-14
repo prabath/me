@@ -24,7 +24,7 @@ As a technology evangelist, Prabath has published five books, including [Adavanc
 
 ## Conferences (Speaker)
 
-* TIIME ([2019](https://tiimeworkshop.eu/agenda/), Venue)
+* TIIME ([2019](https://tiimeworkshop.eu/agenda/), Vienna)
 * Identiverse ([2018](https://www.youtube.com/watch?v=LNihgqvOqOk), Boston)
 * RSA Conference ([2018](https://www.youtube.com/watch?v=FBFEuP5ZVj0), San Francisco)
 * Cloud Identity Summit ([2017](https://www.youtube.com/watch?v=lXX1OhY4knM), Chicago | [2016](https://www.crunchbase.com/event/cloud-identity-summit-2016-201666), New Orleans)
@@ -258,6 +258,7 @@ Rod A. Beckstrom
 * England (London, Cambridge)
 * Netherlands (Amsterdam)
 * Germany (Munich, Stuttgart)
+* Austria (Vienna)
 * Spain (Barcelona)
 * France (Paris)
 * New Zealand (Auckland)
