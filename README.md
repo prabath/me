@@ -15,9 +15,9 @@ As a technology evangelist, Prabath has published five books, including [Adavanc
 ## Boooks (Author)
 
 * Microservices Security in Action (2019, Manning)
-* Adavanced API Security 2nd Edition (2019, Apress)
+* Advanced API Security 2nd Edition (2019, Apress)
 * [Microservices for the Enterprise](https://www.amazon.com/gp/product/1484238575) (2018, Apress)
-* [Adavanced API Security](https://www.amazon.com/gp/product/1430268182) (2014, Apress)
+* [Advanced API Security](https://www.amazon.com/gp/product/1430268182) (2014, Apress)
 * [Mastering Apache Maven 2](https://www.amazon.com/gp/product/B00RP13CMU) (2014, PACKT)
 * [Maven Essentials](https://www.amazon.com/gp/product/B015CYBP16) (2015, PACKT)
 * [Enterprise Integration with WSO2 ESB](https://www.amazon.com/gp/product/1783280190) (2013, PACKT)
