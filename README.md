@@ -24,7 +24,7 @@ As a technology evangelist, Prabath has published five books, including [Adavanc
 
 ## Conferences (Speaker)
 
-* The Millennium Alliance - CISO - WEST ([2019)(https://twitter.com/Mill_All/status/1092947242837626881), Las Vegas)
+* The Millennium Alliance - CISO - WEST ([2019](https://twitter.com/Mill_All/status/1092947242837626881), Las Vegas)
 * Identiverse ([2018](https://www.youtube.com/watch?v=LNihgqvOqOk), Boston)
 * RSA Conference ([2018](https://www.youtube.com/watch?v=FBFEuP5ZVj0), San Francisco)
 * Cloud Identity Summit ([2017](https://www.youtube.com/watch?v=lXX1OhY4knM), Chicago | [2016](https://www.crunchbase.com/event/cloud-identity-summit-2016-201666), New Orleans)
