@@ -24,6 +24,7 @@ As a technology evangelist, Prabath has published five books, including [Adavanc
 
 ## Conferences (Speaker)
 
+* The Millennium Alliance - CISO - WEST ([2019)(https://twitter.com/Mill_All/status/1092947242837626881), Las Vegas)
 * Identiverse ([2018](https://www.youtube.com/watch?v=LNihgqvOqOk), Boston)
 * RSA Conference ([2018](https://www.youtube.com/watch?v=FBFEuP5ZVj0), San Francisco)
 * Cloud Identity Summit ([2017](https://www.youtube.com/watch?v=lXX1OhY4knM), Chicago | [2016](https://www.crunchbase.com/event/cloud-identity-summit-2016-201666), New Orleans)
@@ -62,6 +63,7 @@ As a technology evangelist, Prabath has published five books, including [Adavanc
 
 ## Workshops (Speaker)
 
+* [Strong and Secure Authentication for Enterprises](https://wso2.com/events/workshops/2019-february-o-fallon-il-strong-and-secure-authentication-for-enterprises/) (Fedbruary 2019, O'Fallon, IL)
 * Architecture Bootcamp - Kicking Your Enterprise Security Up a Notch with Adaptive Authentication (December 2018, Boston)
 * [Securing Microservices](https://wso2.com/events/workshops/2018-october-orlando-securing-microservices/) (Oct 2018, Orlando)
 * [Identity Federation and Strong Authentication with WSO2 Identity Server](https://wso2.com/events/workshops/2018-july-virginia-identity-federation-and-strong-authentication-with-wso2-identity-server/) (July 2018, Virginia)
