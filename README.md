@@ -148,7 +148,7 @@ As a technology evangelist, Prabath has published five books, including [Adavanc
 * [Microservice Security Landscape](https://www.meetup.com/microservices-apis-integration-meetup/events/255064813/) (Oct 2018) : Microservices, APIs and Integration - Silicon Valley Meetup
 * OAuth 2.0 Security Landscape (Aug 2018) : Defense Industrial Base Technical Architecture Working Group, Boeing
 * [Securing Microservice](https://www.meetup.com/wso2srilanka/events/250713359/) (May 2018) : WSO2 Sri Lanka Meetup
-* [General Data Protection Regulation for Identity Architects](https://www.meetup.com/0dbfbe09-64eb-4807-bc43-3c4567f43d32/events/244107847/) (Nov 2017) : GDPR Meetup - London
+* [General Data Protection Regulation for Identity Architects](https://twitter.com/wso2/status/926479083818532864) (Nov 2017) : GDPR Meetup - London
 * [Introduction to Blockchain and Bitcoin](https://www.bi.vt.edu/ndssl/news/events/introduction-to-blockchain-and-bitcoin) (Nov 2017) : Biocomplexity Institute of Virginia Tech 
 * Identity on Blockchain (July 2017) : Computer Society of Sri Lanka (CSSL) Tech Talk
 * [API Security Patterns and Practices](https://www.meetup.com/Silicon-Valley-IAM-User-Group/events/225963849/) (Nov 2015) : Silicon Valley IAM User Group
