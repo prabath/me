@@ -112,6 +112,7 @@ As a technology evangelist, Prabath has published five books, including [Adavanc
 
 * [The Future of Digital IAM](https://wso2.com/library/webinars/2019/02/the-future-of-digital-iam/) (February, 2019)
 * [How Blockchain Facilitates Self-Sovereign Identity](https://www.brighttalk.com/webcast/16693/310903/how-blockchain-facilitates-self-sovereign-identity) (April, 2018)
+* [General Data Protection Regulation (GDPR) for Identity Architects](https://wso2.com/library/webinars/2017/12/general-data-protection-regulation-gdpr-for-identity-architects/) (December, 2017)
 * [Identity and Access Management in the Era of Digital Transformation](https://wso2.com/library/webinars/2017/03/identity-and-access-management-in-the-era-of-digital-transformation/) (March, 2017)
 * [Securing Access to SaaS Apps with GSMA Mobile Connect](https://wso2.com/library/webinars/2016/11/securing-access-to-saas-apps-with-gsma-mobile-connect/) (Nov, 2016)
 * [WSO2 Security Platform: Vision and Roadmap](https://wso2.com/library/webinars/2016/05/wso2-security-platform-vision-and-roadmap/) (May 2016)
