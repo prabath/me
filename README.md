@@ -14,7 +14,7 @@ As a technology evangelist, Prabath has published five books, including [Advance
 
 ## Boooks (Author)
 
-* Microservices Security in Action (2019, Manning)
+* [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action) (2019, Manning)
 * Advanced API Security 2nd Edition (2019, Apress)
 * [Microservices for the Enterprise](https://www.amazon.com/gp/product/1484238575) (2018, Apress)
 * [Advanced API Security](https://www.amazon.com/gp/product/1430268182) (2014, Apress)
