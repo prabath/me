@@ -12,6 +12,7 @@ As a technology evangelist, Prabath has published five books, including [Advance
 * **Stack Overflow:** https://stackoverflow.com/users/804637/prabath-siriwardena
 * **Quora:** https://www.quora.com/profile/Prabath-Siriwardena
 * **Instagram:** https://www.instagram.com/prabathsiriwardena/
+* **Amazon Author Page:** https://amazon.com/author/prabath
 
 ## Boooks (Author)
 
