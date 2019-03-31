@@ -3,7 +3,6 @@
 ### Business, Economics & Management
 * [Empathy (HBR Emotional Intelligence Series)](https://www.amazon.com/gp/product/1633693252), Daniel Goleman, Annie McKee, Adam Waytz
 * [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/), Marty Cagan
-
 * [Powerful: Building a Culture of Freedom and Responsibility](https://www.amazon.com/Powerful-Building-Culture-Freedom-Responsibility/dp/1939714095/), Patty McCord
 * [Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone/dp/0062652508), Satya Nadella, Greg Shaw
 * [WTF?: What's the Future and Why It's Up to Us](https://www.amazon.com/WTF-Whats-Future-Why-Its/dp/0062565710), Tim O'Reilly
