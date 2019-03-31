@@ -254,6 +254,7 @@ As a technology evangelist, Prabath has published five books, including [Advance
 * [The Starfish and the Spider](https://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841836/), Ori Brafman, 
 Rod A. Beckstrom
 * [Platform Revolution: How Networked Markets Are Transforming the Economy - and How to Make Them Work for You](https://www.amazon.com/Platform-Revolution-Networked-Transforming-Economy/dp/0393249131/), Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary
+* [More Books...](./BOOKS.md)
 
 ## Travel (Places Visited, Mostly on Business)
 
