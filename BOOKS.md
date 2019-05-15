@@ -1,6 +1,6 @@
 ## Books (Loved Reading)
 
-### Business, Economics & Management
+* [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X/), John Carreyrou
 * [Empathy (HBR Emotional Intelligence Series)](https://www.amazon.com/gp/product/1633693252), Daniel Goleman, Annie McKee, Adam Waytz
 * [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/), Marty Cagan
 * [Powerful: Building a Culture of Freedom and Responsibility](https://www.amazon.com/Powerful-Building-Culture-Freedom-Responsibility/dp/1939714095/), Patty McCord
@@ -23,6 +23,4 @@
 * [The Starfish and the Spider](https://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841836/), Ori Brafman, 
 Rod A. Beckstrom
 * [Platform Revolution: How Networked Markets Are Transforming the Economy - and How to Make Them Work for You](https://www.amazon.com/Platform-Revolution-Networked-Transforming-Economy/dp/0393249131/), Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary
-
-### Identity Management & Security
 * [Exploding Data: Reclaiming Our Cyber Security in the Digital Age](https://www.amazon.com/Exploding-Data-Reclaiming-Security-Digital/dp/0802127932/), Michael Chertoff
