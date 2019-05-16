@@ -1,5 +1,6 @@
 ## Books (Loved Reading)
 
+* [Coders: The Making of a New Tribe and the Remaking of the World ](https://www.amazon.com/Coders-Making-Tribe-Remaking-World/dp/0735220565/), Clive Thompson
 * [Educated: A Memoir](https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501/), Tara Westover
 * [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://www.amazon.com/gp/product/0062839268), Eric Schmidt, Jonathan Rosenberg, Alan Eagle
 * [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X/), John Carreyrou
