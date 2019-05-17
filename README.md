@@ -232,7 +232,7 @@ Prabath was awarded with Outstanding Contributor, Client Delight, Most Valuable 
 * Best Blogger Award, Nov/2008, WSO2
 * Best Tech Evangelist Award, Sept/2008, WSO2
 
-## Books (Loved Reading)
+## Non-Techncal Books (Loved Reading)
 
 * [Empathy (HBR Emotional Intelligence Series)](https://www.amazon.com/gp/product/1633693252), Daniel Goleman, Annie McKee, Adam Waytz
 * [Exploding Data: Reclaiming Our Cyber Security in the Digital Age](https://www.amazon.com/Exploding-Data-Reclaiming-Security-Digital/dp/0802127932/), Michael Chertoff
