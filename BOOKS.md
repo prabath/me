@@ -1,4 +1,4 @@
-## Books (Loved Reading)
+## Non-Techncal Books (Loved Reading)
 
 * [Good Leaders Ask Great Questions: Your Foundation for Successful Leadership](https://www.amazon.com/Good-Leaders-Ask-Great-Questions/dp/145554809X), John Maxwell
 * [The Art of Strategy: A Game Theorist's Guide to Success in Business and Life](https://www.amazon.com/gp/product/0393337170), Avinash K. Dixit, Barry J. Nalebuff
