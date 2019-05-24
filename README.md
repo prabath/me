@@ -5,7 +5,7 @@ Prabath Siriwardena is an identity evangelist, author, blogger and the Vice Pres
 
 As a technology evangelist, Prabath has published six books, including [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action) (Manning) ,  [Advanced API Security](https://www.amazon.com/gp/product/1430268182) (Apress) and [Microservices for the Enterprise](https://www.amazon.com/gp/product/1484238575) (Apress). He blogs on various topics from blockchain, PSD2, GDPR, IAM to microservices security. He also runs a YouTube channel. Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), European Identity Conference (Keynote 2015), Consumer Identity World USA (Keynote 2018), API World (Advisory Board 2018), API Strategy & Practice Con, QCon, OSCON, LASCON, Cloud Security Alliance, Block World, Ellucian Live and WSO2Con (Keynote 2018) - and travelled the world conducting workshops/meetups to evangelize IAM communities. He is also the founder of the Silicon Valley IAM User Group, which is the largest IAM meetup in the San Francisco Bay Area.
 
-Prabath was awarded with Outstanding Contributor, Client Delight, Most Valuable Person awards, consecutively for 10 years since he joined WSO2 and in 2007, he was nominated for the Most Outstanding Young ICT professional award in Sri Lanka by ICTA. He moved to Silcon Valley in January, 2015.
+Prabath was awarded with Outstanding Contributor, Client Delight, Most Valuable Person awards, consecutively for 10 years since he joined WSO2 and in 2007, he was nominated for the Most Outstanding Young ICT professional award in Sri Lanka by ICTA. 
 
 * **LinkedIn:** https://www.linkedin.com/in/prabathsiriwardena/
 * **Twitter:** https://twitter.com/prabath
