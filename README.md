@@ -279,3 +279,9 @@ Rod A. Beckstrom
 * UAE (Dubai)
 * Sadui Arabia (Riyadh)
 * Sri Lanka (Almost everywhere)
+
+## Running for Fun and for a Good Cause
+
+* Walk, Run, Fun! Sister County, Martial Cottle County Park, San Jose, 5k (April, 2019)
+* The Sugar Rush, San Jose, 5k (May, 2019)
+* Summer Scamper, Stanford, 10k (June, 2019)
