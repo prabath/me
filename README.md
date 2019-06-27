@@ -286,7 +286,9 @@ Rod A. Beckstrom
 
 ## Running for Fun and for a Good Cause
 
-* Walk, Run, Fun! Sister County, Martial Cottle County Park, San Jose, 5k (April, 2019)
-* The Sugar Rush, San Jose, 5k (May, 2019)
-* Giant Race, San Jose, 5K (June, 2019)
+* Giant Race, San Francisco, Half Marathon (September, 2019)
 * Summer Scamper, Stanford, 10k (June, 2019)
+* Giant Race, San Jose, 5K (June, 2019)
+* The Sugar Rush, San Jose, 5k (May, 2019)
+* Walk, Run, Fun! Sister County, Martial Cottle County Park, San Jose, 5k (April, 2019)
+
