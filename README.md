@@ -149,7 +149,7 @@ Prabath was awarded with Outstanding Contributor, Client Delight, Most Valuable 
 * [JAVA Colombo](https://www.meetup.com/java-colombo/)
 
 ## Meetups / Community Events (Speaker)
-
+* [Microservices Security Landscape](https://www.meetup.com/API-Craft-San-Francisco/events/262855970/) (July 2019) API Craft San Francisco
 * [PSD2 Security Patterns](https://www.linkedin.com/feed/update/urn:li:activity:6470716822126620672/) (Nov 2018), Societe Generale Open Banking Community Event, Paris, France
 * [Microservice Security Landscape](https://www.meetup.com/microservices-apis-integration-meetup/events/255064813/) (Oct 2018) : Microservices, APIs and Integration - Silicon Valley Meetup
 * OAuth 2.0 Security Landscape (Aug 2018) : Defense Industrial Base Technical Architecture Working Group, Boeing
