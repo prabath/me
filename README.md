@@ -34,7 +34,7 @@ Prabath was awarded with Outstanding Contributor, Client Delight, Most Valuable 
 * European Identity Conference ([2015](https://www.youtube.com/watch?v=PeiTp5NA5j4), Munich (**Keynote**) | [2014](https://www.kuppingercole.com/sessions/1272#2), Munich | [2012](https://www.kuppingercole.com/sessions/977), Munich)
 * Cloud Security Alliance ([2018](http://csaseattlechapter.org/speakers.html), Seattle)
 * LASCON ([2018](https://lascon2018.sched.com/event/GqEp/microservices-security-landscape), Austin | [2016](https://www.youtube.com/watch?v=u3p85tO6LbE) Austin)
-* Ellucian Live - ([2019](https://www.ellucian.com/ellucianlive/about), New Orleans)
+* Ellucian Live ([2019](https://www.ellucian.com/ellucianlive/about), New Orleans)
 * The Millennium Alliance - CISO - WEST ([2019](https://twitter.com/Mill_All/status/1092947242837626881), Las Vegas)
 * GSMA Mobile World Congres ([2017](https://www.gsma.com/identity/mwca-mobile-connect-workshop), San Francisco)
 * Consumer Identity World ([2018](https://www.youtube.com/watch?v=4JdWe02SABU), Seattle (**Keynote**))
