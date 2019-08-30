@@ -9,7 +9,7 @@ As a technology evangelist, Prabath has published seven books, including [Micros
 
 Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), European Identity Conference (Keynote 2015), Consumer Identity World USA (Keynote 2018), API World (Advisory Board 2018), Microservices World, API Strategy & Practice Con, QCon, OSCON, LASCON, Cloud Security Alliance, Block World, Ellucian Live and WSO2Con (Keynote 2018) - and [travelled the world](https://github.com/prabath/me/blob/master/README.md#travel-places-visited-mostly-on-business) conducting workshops/meetups to evangelize IAM communities. He is also the founder of the Silicon Valley IAM User Group, which is the largest IAM meetup in the San Francisco Bay Area.
 
-Prabath was awarded with Outstanding Contributor, Client Delight, Most Valuable Person awards, consecutively for 10 years since he joined WSO2 and in 2007, he was nominated for the Most Outstanding Young ICT professional award in Sri Lanka by ICTA. 
+Prabath was [awarded](https://github.com/prabath/me#awards-carries-my-name-but-its-the-team-behind-me) with Outstanding Contributor, Client Delight, Most Valuable Person awards, consecutively for 10 years since he joined WSO2 and in 2007, he was nominated for the Most Outstanding Young ICT professional award in Sri Lanka by ICTA. 
 
 * **LinkedIn:** https://www.linkedin.com/in/prabathsiriwardena/
 * **Twitter:** https://twitter.com/prabath
