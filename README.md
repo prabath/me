@@ -1,7 +1,7 @@
 <img src="./covers/book1.jpg" width="120" height="180"> <img src="./covers/book7.png" width="120" height="180"> <img src="./covers/book2.png" width="120" height="180"> <img src="./covers/book3.png" width="120" height="180"> <img src="./covers/book4.png" width="120" height="180"> <img src="./covers/book5.png" width="120" height="180"> <img src="./covers/book6.png" width="120" height="180">
 ## Prabath Siriwardena
 
-Prabath Siriwardena is an identity evangelist, author, and a blogger from the most beauitful island, Sri Lanka and now lives in Silicon Valley. 
+Prabath Siriwardena is an identity evangelist, author, and a blogger from the most beauitful island, [Sri Lanka](https://www.google.com/search?q=the+beauty+of+sri+lanka) and now lives in Silicon Valley. 
 
 Prabath has more than 12 years of industry experience in designing and building critical Identity and Access Management infrastructure for global enterprises, including many Fortune 100/500 companies. He spent most of his time in last 12 years with the WSO2 IAM team, in leading the development of the open source WSO2 Identity Server, which is used by hundreds of top companies and more than 500 Universities globally, and also within the open source communities. 
 
