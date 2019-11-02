@@ -75,6 +75,12 @@ Prabath was [awarded](https://github.com/prabath/me#awards-carries-my-name-but-i
 
 ## Workshops (Speaker)
 
+* [API Security Best Practices and Guidelines](https://wso2.com/events/workshops/api-security-best-practices-and-guidelines-tampa-fl/) (Novermber 2019, Tampa, Florida)
+* [API Security Best Practices and Guidelines](https://wso2.com/events/workshops/api-security-best-practices-and-guidelines-fort-lauderdale-fl/) (Novermber 2019, Fort Lauderdale, Florida)
+* [API Security Best Practices and Guidelines](https://wso2.com/events/workshops/api-security-best-practices-and-guidelines-orlando-fl/) (Novermber 2019, Orlando, Florida)
+* [Strong and Adaptive Authentication for your Enterprise](https://wso2.com/events/workshops/strong-and-adaptive-authentication-for-your-enterprise-nyc-2019//) (Novermber 2019, Tysons Corner, Virginia)
+* [Strong and Adaptive Authentication for your Enterprise](https://wso2.com/events/workshops/strong-and-adaptive-authentication-for-your-enterprise-nyc-2019//) (Novermber 2019, New York, NY)
+* [API Security Best Practices and Guidelines](https://wso2.com/events/workshops/api-security-best-practices-and-guidelines-chicago-il-2019/) (October 2019, Chicago, IL)
 * [API Security Best Practices and Guidelines](https://wso2.com/events/workshops/api-security-best-practices-and-guidelines-chicago-il-2019/) (October 2019, Chicago, IL)
 * [Strong and Secure Authentication for Enterprises](https://wso2.com/events/workshops/2019-february-o-fallon-il-strong-and-secure-authentication-for-enterprises/) (Fedbruary 2019, O'Fallon, IL)
 * Architecture Bootcamp - Kicking Your Enterprise Security Up a Notch with Adaptive Authentication (December 2018, Boston)
