@@ -128,6 +128,7 @@ Prabath was [awarded](https://github.com/prabath/me#awards-carries-my-name-but-i
 
 ## Webinars (Speaker)
 
+* [Ethos Identity & WSO2 IAM for secure, seamless access](https://www.ellucian.com/resources/webinar/ethos-identity-wso2-iam-secure-seamless-access)(October, 2019)
 * [The Future of Digital IAM](https://wso2.com/library/webinars/2019/02/the-future-of-digital-iam/) (February, 2019)
 * [How Blockchain Facilitates Self-Sovereign Identity](https://www.brighttalk.com/webcast/16693/310903/how-blockchain-facilitates-self-sovereign-identity) (April, 2018)
 * [General Data Protection Regulation (GDPR) for Identity Architects](https://wso2.com/library/webinars/2017/12/general-data-protection-regulation-gdpr-for-identity-architects/) (December, 2017)
