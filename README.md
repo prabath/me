@@ -5,7 +5,7 @@ Prabath Siriwardena is an identity evangelist, author, and a blogger with more t
 
 WSO2 Identity Server is one of the top leading open source access management products. It serves more than 100 million identities globally and handles more than 1 million authentication requests on daily basis. In 2018, the leading analyst firm KuppingerCole named WSO2 Identity Server as a leader in their Leadership Compass for Access & Federation and also a leader in the Leadership Compass for Customer IAM (CIAM), and in 2019 KuppingerCole named WSO2 Identity Server as an overall leader in the Leadership Compass for Identity APIs. Both Gartner and Forrester have quoted WSO2 Identity Server in their reports multiple times.
 
-As a technology evangelist, Prabath has published seven books, including [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action) (Manning) ,  [Advanced API Security](https://www.amazon.com/gp/product/1430268182) (Apress) and [Microservices for the Enterprise](https://www.amazon.com/gp/product/1484238575) (Apress). He blogs on various topics from blockchain, PSD2, GDPR, IAM to microservices security. He also runs a YouTube channel. 
+As a technology evangelist, Prabath has published seven books, including [Microservices Security in Action](https://www.amazon.com/Microservices-Security-Action-Prabath-Siriwardena/dp/1617295957/) (Manning) ,  [Advanced API Security](https://www.amazon.com/gp/product/1430268182) (Apress) and [Microservices for the Enterprise](https://www.amazon.com/gp/product/1484238575) (Apress). He blogs on various topics from blockchain, PSD2, GDPR, IAM to microservices security. He also runs a YouTube channel. 
 
 Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), European Identity Conference (Keynote 2015), Consumer Identity World USA (Keynote 2018), API World (Advisory Board 2018), Microservices World, API Strategy & Practice Con, QCon, OSCON, LASCON, Cloud Security Alliance, Block World, Ellucian Live and WSO2Con (Keynote 2018) - and [travelled the world](https://github.com/prabath/me/blob/master/README.md#travel-places-visited-mostly-on-business) conducting workshops/meetups to evangelize IAM communities. He is also the founder of the Silicon Valley IAM User Group, which is the largest IAM meetup in the San Francisco Bay Area.
 
@@ -22,7 +22,7 @@ Prabath was [awarded](https://github.com/prabath/me#awards-carries-my-name-but-i
 
 ## Boooks (Author)
 
-* [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action) (2019, Manning)
+* [Microservices Security in Action](https://www.amazon.com/Microservices-Security-Action-Prabath-Siriwardena/dp/1617295957/) (2020, Manning)
 * Advanced API Security 2nd Edition (2019, Apress)
 * [Microservices for the Enterprise](https://www.amazon.com/gp/product/1484238575) (2018, Apress)
 * [Advanced API Security](https://www.amazon.com/gp/product/1430268182) (2014, Apress)
