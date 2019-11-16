@@ -75,7 +75,6 @@ Prabath was [awarded](https://github.com/prabath/me#awards-carries-my-name-but-i
 
 ## Workshops (Speaker)
 
-* [API Security Best Practices and Guidelines](https://wso2.com/events/workshops/api-security-best-practices-and-guidelines-tampa-fl/) (Novermber 2019, Tampa, Florida)
 * [API Security Best Practices and Guidelines](https://wso2.com/events/workshops/api-security-best-practices-and-guidelines-fort-lauderdale-fl/) (Novermber 2019, Fort Lauderdale, Florida)
 * [API Security Best Practices and Guidelines](https://wso2.com/events/workshops/api-security-best-practices-and-guidelines-orlando-fl/) (Novermber 2019, Orlando, Florida)
 * [Strong and Adaptive Authentication for your Enterprise](https://wso2.com/events/workshops/strong-and-adaptive-authentication-for-your-enterprise-nyc-2019//) (Novermber 2019, Tysons Corner, Virginia)
