@@ -23,7 +23,7 @@ Prabath was [awarded](https://github.com/prabath/me#awards-carries-my-name-but-i
 ## Boooks (Author)
 
 * [Microservices Security in Action](https://www.amazon.com/Microservices-Security-Action-Prabath-Siriwardena/dp/1617295957/) (2020, Manning)
-* Advanced API Security 2nd Edition (2019, Apress)
+* [Advanced API Security 2nd Edition](https://www.amazon.com/gp/product/1484220498/) (2019, Apress)
 * [Microservices for the Enterprise](https://www.amazon.com/gp/product/1484238575) (2018, Apress)
 * [Advanced API Security](https://www.amazon.com/gp/product/1430268182) (2014, Apress)
 * [Mastering Apache Maven 2](https://www.amazon.com/gp/product/B00RP13CMU) (2014, PACKT)
