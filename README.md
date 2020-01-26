@@ -32,7 +32,9 @@ Prabath was [awarded](https://github.com/prabath/me#awards-carries-my-name-but-i
 
 ## Conferences (Speaker)
 
+* The Change Management in the Data Centre ([2020](https://dcsevent.com/agenda), London)
 * KNOW Identity ([2020](https://www.knowidentity.com/2020-speakers/), Las Vegas)
+* Microservices Conference ([2020](https://microservices.dijitalakademi.gov.tr/), Turkey)
 * Ellucian Live ([2019](https://www.ellucian.com/ellucianlive/about), New Orleans)
 * Microservices World ([2019](https://apiworld2019aidevworld2019.sched.com/speaker/prabathsiriwardena.1zy9ek1d), San Jose)
 * The Millennium Alliance - CISO - WEST ([2019](https://twitter.com/Mill_All/status/1092947242837626881), Las Vegas)
@@ -287,6 +289,7 @@ Rod A. Beckstrom
 * Germany (Munich, Stuttgart)
 * Spain (Barcelona)
 * France (Paris)
+* Turkey (Ankara)
 * New Zealand (Auckland)
 * China (Guangzhou)
 * Thailand (Bangkok)
