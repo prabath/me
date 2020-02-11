@@ -291,7 +291,7 @@ Rod A. Beckstrom
 * Germany (Munich, Stuttgart)
 * Spain (Barcelona)
 * France (Paris)
-* Turkey (Ankara)
+* Turkey (Ankara, Istanbul)
 * New Zealand (Auckland)
 * China (Guangzhou)
 * Thailand (Bangkok)
