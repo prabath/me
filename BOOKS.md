@@ -1,4 +1,4 @@
-## Non-Techncal Books (Loved Reading)
+## Non-Technical Books (Loved Reading)
 
 * [Make Your Bed: Little Things That Can Change Your Life...And Maybe the World](https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249), William H. McRaven
 * [Good Leaders Ask Great Questions: Your Foundation for Successful Leadership](https://www.amazon.com/Good-Leaders-Ask-Great-Questions/dp/145554809X), John Maxwell
