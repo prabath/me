@@ -1,4 +1,6 @@
-<img src="./covers/book1.jpg" width="115" height="180"> <img src="./covers/book7.png" width="115" height="180"> <img src="./covers/book2.png" width="115" height="180"> <img src="./covers/book3.png" width="115" height="180"> <img src="./covers/book4.png" width="115" height="180"> <img src="./covers/book5.png" width="115" height="180"> <img src="./covers/book6.png" width="115" height="180">
+<p><img src="./covers/book1.jpg" width="115" height="180"><img src="./covers/book1.jpg" width="115" height="180"> <img src="./covers/book7.png" width="115" height="180"> <img src="./covers/book2.png" width="115" height="180"></p>
+
+<p> <img src="./covers/book3.png" width="115" height="180"><img src="./covers/book4.png" width="115" height="180"> <img src="./covers/book5.png" width="115" height="180"> <img src="./covers/book6.png" width="115" height="180"></p>
 ## Prabath Siriwardena
 
 Prabath Siriwardena is an identity evangelist, an author, a blogger, and the Vice President of Security Architecture at WSO2 with more than 12 years of industry experience in designing and building critical Identity and Access Management infrastructure for global enterprises, including many Fortune 100/500 companies. He spent most of his time in last 12 years with the WSO2 IAM team, in leading the development of the open source WSO2 Identity Server, which is used by hundreds of top companies and more than 500 Universities globally, and also within the open source communities. 
@@ -18,6 +20,7 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 
 ## Boooks (Author)
 
+* [OpenID Connect in Action](https://www.manning.com/books/openid-connect-in-action) (2021, Manning)
 * [Microservices Security in Action](https://www.amazon.com/Microservices-Security-Action-Prabath-Siriwardena/dp/1617295957/) (2020, Manning)
 * [Advanced API Security 2nd Edition](https://www.amazon.com/gp/product/1484220498/) (2019, Apress)
 * [Microservices for the Enterprise](https://www.amazon.com/gp/product/1484238575) (2018, Apress)
