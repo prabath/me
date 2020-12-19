@@ -1,4 +1,4 @@
-<p><img src="./covers/book1.jpg" width="200" height="260">   <img src="./covers/book1.jpg" width="200" height="260">   <img src="./covers/book7.png" width="200" height="260">   <img src="./covers/book2.png" width="200" height="260"></p>
+<p><img src="./covers/book1.jpg" width="200" height="260">     <img src="./covers/book1.jpg" width="200" height="260">     <img src="./covers/book7.png" width="200" height="260">     <img src="./covers/book2.png" width="200" height="260"></p>
 
 <p> <img src="./covers/book3.png" width="200" height="260">     <img src="./covers/book4.png" width="200" height="260">     <img src="./covers/book5.png" width="200" height="260">     <img src="./covers/book6.png" width="200" height="260"></p>
 
