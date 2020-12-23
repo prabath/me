@@ -4,7 +4,7 @@
 
 ## Prabath Siriwardena
 
-Prabath Siriwardena is an identity evangelist, an author, a blogger, and the Vice President of Security Architecture at WSO2 with more than 12 years of industry experience in designing and building critical Identity and Access Management infrastructure for global enterprises, including many Fortune 100/500 companies. He spent most of his time in last 12 years with the WSO2 IAM team, in leading the development of the open source WSO2 Identity Server, which is used by hundreds of top companies and more than 500 Universities globally, and also within the open source communities. 
+Prabath Siriwardena is an identity evangelist, an author, a blogger, and the Vice President of Security Architecture at WSO2 with more than 12 years of industry experience in designing and building critical Identity and Access Management infrastructure for global enterprises, including many Fortune 100/500 companies. He spent most of his time in last 12 years with the WSO2 IAM team, in leading the development of the open source WSO2 Identity Server, which is used by hundreds of top companies and more than 500 Universities globally, and also within the open source communities. In 2020 Forrester CIAM Wave, WSO2 Identity Server was named as a top Strong Performer and in 2020 KuppingerCole CIAM Leadership Compass, Identity Server was named as Leader.
 
 As a technology evangelist, Prabath has published seven books, including [Microservices Security in Action](https://www.amazon.com/Microservices-Security-Action-Prabath-Siriwardena/dp/1617295957/) (Manning) ,  [Advanced API Security](https://www.amazon.com/gp/product/1484220498/) (Apress) and [Microservices for the Enterprise](https://www.amazon.com/gp/product/1484238575) (Apress). He blogs on various topics from blockchain, PSD2, GDPR, IAM to microservices security. He also runs a YouTube channel. 
 
@@ -32,8 +32,6 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 
 ## Conferences (Speaker)
 
-* The Change Management in the Data Centre ([2020](https://dcsevent.com/agenda), London)
-* KNOW Identity ([2020](https://www.knowidentity.com/2020-speakers/), Las Vegas)
 * Microservices Conference ([2020](https://microservices.dijitalakademi.gov.tr/), Turkey)
 * Ellucian Live ([2020](https://www.ellucian.com/ellucianlive/about), Orlando | [2019](https://www.ellucian.com/ellucianlive/about), New Orleans)
 * Microservices World ([2019](https://apiworld2019aidevworld2019.sched.com/speaker/prabathsiriwardena.1zy9ek1d), San Jose)
