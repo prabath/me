@@ -130,7 +130,7 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 
 ## Webinars (Speaker)
 
-* [Customer IAM Trends, Challenges, and More](https://wso2.com/webinar/ciam-trend-chat-apac/)(June, 2021)
+* [Customer IAM Trends, Challenges, and More](https://wso2.com/webinar/ciam-trend-chat-apac/) (June, 2021)
 * [Ethos Identity & WSO2 IAM for secure, seamless access](https://www.ellucian.com/resources/webinar/ethos-identity-wso2-iam-secure-seamless-access) (October, 2019)
 * [The Future of Digital IAM](https://wso2.com/library/webinars/2019/02/the-future-of-digital-iam/) (February, 2019)
 * [How Blockchain Facilitates Self-Sovereign Identity](https://www.brighttalk.com/webcast/16693/310903/how-blockchain-facilitates-self-sovereign-identity) (April, 2018)
