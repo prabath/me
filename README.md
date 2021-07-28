@@ -128,6 +128,7 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 
 ## Webinars (Speaker)
 
+* [Customer IAM Trends, Challenges, and More](https://wso2.com/webinar/ciam-trend-chat-apac/)(June, 2021)
 * [Ethos Identity & WSO2 IAM for secure, seamless access](https://www.ellucian.com/resources/webinar/ethos-identity-wso2-iam-secure-seamless-access) (October, 2019)
 * [The Future of Digital IAM](https://wso2.com/library/webinars/2019/02/the-future-of-digital-iam/) (February, 2019)
 * [How Blockchain Facilitates Self-Sovereign Identity](https://www.brighttalk.com/webcast/16693/310903/how-blockchain-facilitates-self-sovereign-identity) (April, 2018)
@@ -185,8 +186,11 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 * [Building an Ecosystem for API Security](http://wso2.com/whitepapers/wso2-whitepaper-building-an-ecosystem-for-api-security/http://wso2.com/whitepapers/wso2-security-and-identity-gateway-solution/)
 * [WSO2 Security and Identity Gateway Solution](http://wso2.com/whitepapers/wso2-security-and-identity-gateway-solution/) (with Asanka Abeysinghe)
 
-## Research Papers (Author)
+## Research Papers / Articles (Author)
 
+* [Prabath Siriwardena of WSO2: Five Things Every Business Needs To Know About Storing and Protecting Their Customers’ Information](https://medium.com/authority-magazine/prabath-siriwadena-of-wso2-five-things-every-business-needs-to-know-about-storing-and-protecting-8828ed9dd5be)(2021)
+* [Interview: CIAM; Challenges, opportunities and utilising it to meet evolving customer needs](https://www.lankabusinessonline.com/interview-ciam-challenges-opportunities-and-utilising-it-to-meet-evolving-customer-needs/)(2021)
+* [Three key customer IAM trends for 2021](https://www.securitymagazine.com/articles/94184-three-key-customer-iam-trends-for-2021) (2021)
 * [Multi-tenant SOA Middleware for Cloud Computing](https://www.computer.org/csdl/proceedings-article/2010/cloud/4130a458/12OmNqIzhbF) (2010)
 
 ## Standards/RFCs (Acknowledged)
