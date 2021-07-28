@@ -13,7 +13,7 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 * **LinkedIn:** https://www.linkedin.com/in/prabathsiriwardena/
 * **Twitter:** https://twitter.com/prabath
 * **Blog:** http://blog.facilelogin.com
-* **vLog:** http://vlog.facilelogin.com
+* **YouTube:** http://vlog.facilelogin.com
 * **Stack Overflow:** https://stackoverflow.com/users/804637/prabath-siriwardena
 * **Quora:** https://www.quora.com/profile/Prabath-Siriwardena
 * **Instagram:** https://www.instagram.com/prabathsiriwardena/
