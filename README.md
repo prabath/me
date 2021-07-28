@@ -166,6 +166,13 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 * [JAVA Colombo](https://www.meetup.com/java-colombo/)
 
 ## Meetups / Community Events (Speaker)
+
+* [Securing gRPC Microservices with Istio Service Mesh](https://www.youtube.com/watch?v=g2fexevWS8A&list=PLsRTmYHK-u5R-Kg0RWaxLDSERaJHyYqyW&index=11) (July, 2020)
+* [Single Logout Dilemma #IAM4Developers Meetup (Bangalore, Colombo, Sydney, Singapore](https://www.youtube.com/watch?v=fDduGsBJCqM&list=PLsRTmYHK-u5R-Kg0RWaxLDSERaJHyYqyW&index=9) (May, 2020)
+* [Securing Single-page Applications with OpenID Connect](https://www.youtube.com/watch?v=tmKD2famPJc&list=PLsRTmYHK-u5R-Kg0RWaxLDSERaJHyYqyW&index=8) (May, 2020)
+* [OAuth 2.0 Internals and Applications](https://www.youtube.com/watch?v=lv9sv-YTgMs&list=PLsRTmYHK-u5R-Kg0RWaxLDSERaJHyYqyW&index=6) (April, 2020)
+* [Controlling Access to Your Microservices with Istio Service Mesh](https://www.youtube.com/watch?v=5MqSOnQ7ZGw&list=PLsRTmYHK-u5R-Kg0RWaxLDSERaJHyYqyW&index=4) (April, 2020)
+* [JSON Web Token Internals and Applications (Silicon Valley/London/Toronto #IAM4Developers Meetup)](https://www.youtube.com/watch?v=QyqNMndiYbE) (April, 2020)
 * [Software Technologies Research Institute Meetup](https://twitter.com/prabath/status/1223176507448754177) (Jan 2020), Ankara, Turkey
 * [Microservices Security Landscape](https://www.meetup.com/API-Craft-San-Francisco/events/262855970/) (July 2019) API Craft San Francisco
 * [PSD2 Security Patterns](https://www.linkedin.com/feed/update/urn:li:activity:6470716822126620672/) (Nov 2018), Societe Generale Open Banking Community Event, Paris, France
