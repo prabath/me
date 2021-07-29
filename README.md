@@ -193,6 +193,8 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 
 ## Whitepapers (Author)
 
+* [Identity Architect Ground Rules: Ten IAM Design Principles](https://wso2.com/whitepapers/identity-architect-ground-rules-ten-iam-design-principles/)
+* [Connected Identity: Benefits, Risks, and Challenges](https://wso2.com/whitepapers/connected-identity-benefits-risks-and-challenges/)
 * [Building an Ecosystem for API Security](http://wso2.com/whitepapers/wso2-whitepaper-building-an-ecosystem-for-api-security/http://wso2.com/whitepapers/wso2-security-and-identity-gateway-solution/)
 * [WSO2 Security and Identity Gateway Solution](http://wso2.com/whitepapers/wso2-security-and-identity-gateway-solution/) (with Asanka Abeysinghe)
 
