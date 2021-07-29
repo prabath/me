@@ -63,7 +63,7 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 * OSCON ([2009](https://conferences.oreilly.com/oscon/oscon2009/public/schedule/detail/10436), San Jose)
 * Apache Roadshow Asia (2009, Colombo)
 
-## Conferences (Attendee)
+## Conferences (Attendee) [15]
 
 * Gartner Identity and Access Management Summit (2018, Las Vegas)
 * Internet Identity Workshop (April 2019, Mountain View | Oct 2017, Mountain View | May 2017, Mountain View | April 2016, Mountain View | April 2015, Mountain View )
@@ -75,7 +75,7 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 * Strata + Hadoop World (Feb 2015, San Jose)
 * Cloud Identity Summit (July 2011, Colorado)
 
-## Workshops (Speaker)
+## Workshops (Speaker) [50]
 
 * [Strong and Adaptive Authentication for your Enterprise](https://wso2.com/events/workshops/strong-and-adaptive-authentication-for-your-enterprise-mv-ca-2019/) (December 2019, Mountain view, California)
 * [API Security Best Practices and Guidelines](https://wso2.com/events/workshops/api-security-best-practices-and-guidelines-fort-lauderdale-fl/) (Novermber 2019, Fort Lauderdale, Florida)
@@ -128,7 +128,7 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 * [WSO2 SOA Workshop](http://lanyrd.com/2009/wso2-soa-workshop-2/) (Nov 2009, Santa Clara)
 * [WSO2 SOA Workshop](http://lanyrd.com/2009/wso2-soa-workshop/) (Sept 2009, Colombo)
 
-## Webinars (Speaker)
+## Webinars (Speaker) [30]
 
 * [Customer IAM Trends, Challenges, and More](https://wso2.com/webinar/ciam-trend-chat-apac/) (June, 2021)
 * [CIAM & Digital Transformation](https://www.yenlo.com/webinars/ciam-and-digital-transformation/) (April, 2021)
