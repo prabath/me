@@ -19,7 +19,7 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 * **Instagram:** https://www.instagram.com/prabathsiriwardena/
 * **Amazon Author Page:** https://amazon.com/author/prabath
 
-## Boooks (Author)
+## Boooks (Author) [8]
 
 * [OpenID Connect in Action](https://www.manning.com/books/openid-connect-in-action) (2021, Manning)
 * [Microservices Security in Action](https://www.amazon.com/Microservices-Security-Action-Prabath-Siriwardena/dp/1617295957/) (2020, Manning)
@@ -30,7 +30,7 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 * [Maven Essentials](https://www.amazon.com/gp/product/B015CYBP16) (2015, PACKT)
 * [Enterprise Integration with WSO2 ESB](https://www.amazon.com/gp/product/1783280190) (2013, PACKT)
 
-## Conferences (Speaker)
+## Conferences (Speaker) [52]
 
 * API Days ([2021](https://www.apidays.global/interface/))
 * WSO2 Summit ([2021](https://wso2.com/library/summit-2020/americas/ciam-and-securing-the-integrated-api-supply-chain/))
