@@ -201,6 +201,7 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 
 ## Research Papers / Articles (Author)
 
+* [Five Things Every Business Needs To Know About Storing and Protecting Their Customers’ Information](https://medium.com/authority-magazine/prabath-siriwadena-of-wso2-five-things-every-business-needs-to-know-about-storing-and-protecting-8828ed9dd5be) (2021)
 * [Prabath Siriwardena of WSO2: Five Things Every Business Needs To Know About Storing and Protecting Their Customers’ Information](https://medium.com/authority-magazine/prabath-siriwadena-of-wso2-five-things-every-business-needs-to-know-about-storing-and-protecting-8828ed9dd5be) (2021)
 * [Interview: CIAM; Challenges, opportunities and utilising it to meet evolving customer needs](https://www.lankabusinessonline.com/interview-ciam-challenges-opportunities-and-utilising-it-to-meet-evolving-customer-needs/) (2021)
 * [Three key customer IAM trends for 2021](https://www.securitymagazine.com/articles/94184-three-key-customer-iam-trends-for-2021) (2021)
