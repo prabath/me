@@ -222,6 +222,8 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 
 ## Blogs (Author)
 
+* [How we built multi-regional routing at the edge @ DevRev](https://medium.facilelogin.com/how-we-built-multi-regional-routing-at-the-edge-devrev-42059ddb9225)
+* [Securing north/south and east/west traffic @ DevRev](https://medium.facilelogin.com/securing-north-south-and-east-west-traffic-devrev-2004b4397950)
 * [What Went Wrong? Facebook is in Crisis Again!](https://medium.facilelogin.com/what-went-wrong-d09b0dc24de4)
 * [Build Your Own Blockchain](https://medium.facilelogin.com/build-your-own-blockchain-b8eaeea2f891)
 * [51% Attack!](https://medium.facilelogin.com/51-attack-a72d26786b23)
@@ -260,6 +262,7 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 
 ## Awards (Carries My Name, But it's the Team Behind Me)
 
+* DevRev Value Award, 2024, DevRev
 * Outstanding Contribution Award, 2017, WSO2 
 * Most Valuable Person (MVP), 2016, WSO2
 * Outstanding Contribution Award, 2015, WSO2 
