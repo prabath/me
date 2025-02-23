@@ -4,11 +4,17 @@
 
 ## Prabath Siriwardena
 
-Prabath Siriwardena is a developer, architect, an author, and a blogger. Prabath has more than 17 years of industry experience in designing and building critical Identity and Access Management infrastructure for global enterprises, including many Fortune 100/500 companies. He spent most of his time in last 14 years with the WSO2 IAM team, in leading the development of the open source WSO2 Identity Server, which is used by hundreds of top companies and more than 500 Universities globally, and also within the open source communities. In 2020 Forrester CIAM Wave, WSO2 Identity Server was named as a top Strong Performer and in 2020 KuppingerCole CIAM Leadership Compass, Identity Server was named as Leader.
+I am an engineer with 20+ years of experience in designing and building critical Identity and Access Management systems for global enterprises, including many Fortune 100/500 companies. Currently, I work at DevRev, a platform for managing developer-customer relationships that helps developers build, support, and grow their businesses.
 
-As a technology evangelist, Prabath has published seven books, including [Microservices Security in Action](https://www.amazon.com/Microservices-Security-Action-Prabath-Siriwardena/dp/1617295957/) (Manning) ,  [Advanced API Security](https://www.amazon.com/gp/product/1484220498/) (Apress) and [Microservices for the Enterprise](https://www.amazon.com/gp/product/1484238575) (Apress). He blogs on various topics from blockchain, PSD2, GDPR, IAM to microservices security. He also runs a YouTube channel. 
+From 2007 to 2021, I led the development, architecture, and strategy of the open-source WSO2 Identity Server. During this time, the project grew from zero customers to over 750, from zero annual recurring revenue to over $12M, from zero users to more than 250 million, and from a four-member team to a 100-member team. In 2020, the WSO2 Identity Server was recognized as a Strong Performer in the Forrester CIAM Wave (surpassing notable names such as Okta, Auth0, and Ping Identity) and a Leader in the KuppingerCole CIAM Leadership Compass.
 
-Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), European Identity Conference (Keynote 2015), Consumer Identity World USA (Keynote 2018), API World (Advisory Board 2018), Microservices World, API Strategy & Practice Con, QCon, OSCON, LASCON, Cloud Security Alliance, Block World, Ellucian Live and WSO2Con (Keynote 2018) - and [travelled the world](https://github.com/prabath/me/blob/master/README.md#travel-places-visited-mostly-on-business) conducting workshops/meetups to evangelize IAM communities. He is also the founder of the Silicon Valley IAM User Group, which is the largest IAM meetup in the San Francisco Bay Area.
+As a developer, I contributed to implementing OpenID, OAuth 2.0, XACML, SAML 2.0, and OpenID Connect standards in the WSO2 Identity Server and implemented Kerberos profile support for Apache Rampart. I also led the design and implementation of multi-tenancy, identity bridging, monolithic to microservices architecture (MSA), and multi-regional deployment architecture.
+
+As an author, I have published 7 books, including "Microservices Security in Action" (Manning), "Advanced API Security" (Apress), and "Microservices for the Enterprise" (Apress). Three of my books have been translated into Korean, and one is being translated into Chinese.
+
+I have spoken at various conferences, such as RSA Conference, Identiverse, European Identity Conference (Keynote 2015), Consumer Identity World (Keynote 2018), API World (Advisory Board 2018), Microservices World, API Strategy & Practice Con, QCon, OSCON, LASCON, Cloud Security Alliance, Block World, Ellucian Live, and WSO2Con (Keynote 2018). I have traveled globally (19 countries and 30 states in the USA) to conduct workshops and meetups to support IAM communities. Additionally, I founded the Silicon Valley IAM Meetup, the largest IAM meetup in the San Francisco Bay Area.
+
+I've received several awards (thanks to my teammates), including the Outstanding Contributor, Client Delight, and Most Valuable Person awards consecutively for 10 years at WSO2 and the DevRev Value award in 2024. In 2007, I was nominated for the Most Outstanding Young ICT Professional award in Sri Lanka by ICTA.
 
 * **LinkedIn:** https://www.linkedin.com/in/prabathsiriwardena/
 * **Twitter:** https://twitter.com/prabath
@@ -19,7 +25,7 @@ Prabath has spoken at RSAConference, Identiverse (Cloud Identity Summit), Europe
 * **Instagram:** https://www.instagram.com/prabathsiriwardena/
 * **Amazon Author Page:** https://amazon.com/author/prabath
 
-## Boooks (Author) [8]
+## Books (Author) [8]
 
 * [OpenID Connect in Action](https://www.manning.com/books/openid-connect-in-action) (2021, Manning)
 * [Microservices Security in Action](https://www.amazon.com/Microservices-Security-Action-Prabath-Siriwardena/dp/1617295957/) (2020, Manning)
