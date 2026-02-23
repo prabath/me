@@ -319,6 +319,7 @@ Rod A. Beckstrom
 * Germany (Munich, Stuttgart)
 * Spain (Barcelona)
 * France (Paris)
+* Italy (Rome)
 * Turkey (Ankara, Istanbul)
 * New Zealand (Auckland)
 * China (Guangzhou)
@@ -329,6 +330,7 @@ Rod A. Beckstrom
 * Malidives (Male)
 * UAE (Dubai)
 * Sadui Arabia (Riyadh)
+* Qatar (Doha)
 * Sri Lanka (Almost everywhere)
 
 ## Running for Fun and for a Good Cause
